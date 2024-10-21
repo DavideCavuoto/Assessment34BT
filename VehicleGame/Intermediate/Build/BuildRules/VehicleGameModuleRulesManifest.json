@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"G:\\Assignment 34\\VehicleGame\\Source\\VehicleGame\\VehicleGame.Build.cs",
+		"G:\\Assignment 34\\VehicleGame\\Source\\VehicleGameLoadingScreen\\VehicleGameLoadingScreen.Build.cs",
+		"G:\\Assignment 34\\VehicleGame\\Source\\VehicleGame.Target.cs",
+		"G:\\Assignment 34\\VehicleGame\\Source\\VehicleGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
