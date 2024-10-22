@@ -6881,3 +6881,123 @@ Script Stack (0 frames):
 [2024.10.22-16.13.45:634][835]LogFileHelpers: Saving map 'DesertRallyRace' took 1.843
 [2024.10.22-16.13.45:675][835]AssetCheck: New page: Asset Save: DesertRallyRace
 [2024.10.22-16.13.45:675][835]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-16.15.30:628][192]LogSlate: Window 'Message' being destroyed
+[2024.10.22-16.15.30:637][192]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assignment/M_RarePickableObject.M_RarePickableObject
+(Selecting 'No' will cause all changes to be lost!)
+[2024.10.22-16.15.34:470][453]LogMaterialEditor: Saving and Compiling material M_RarePickableObject
+[2024.10.22-16.15.39:003][453]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 977160A25EC8DA873BC0D00B4C7F819BB1771243), compiling. 
+[2024.10.22-16.15.39:069][453]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 442D4B915B807C2D9D64A30865F66EFDEBBA94E8), compiling. 
+[2024.10.22-16.15.39:173][453]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2024.10.22-16.15.39:294][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-16.15.39:294][453]LogShaderCompilers: Display: Total job queries 323, among them cache hits 216 (66.87%)
+[2024.10.22-16.15.39:294][453]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 43 distinct outputs (51.81%)
+[2024.10.22-16.15.39:294][453]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2024.10.22-16.15.39:294][453]LogShaderCompilers: Display: ================================================
+[2024.10.22-16.15.39:337][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.22-16.15.39:389][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_RarePickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_RarePickableObject.uasset" SILENT=true
+[2024.10.22-16.15.39:394][453]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_RarePickableObject94AF9EE044CF356B22A0FBAE779B7145.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_RarePickableObject.uasset'
+[2024.10.22-16.15.39:414][453]AssetCheck: New page: Asset Save: M_RarePickableObject
+[2024.10.22-16.15.39:414][453]LogContentValidation: Display: Validating Material /Game/Assignment/M_RarePickableObject.M_RarePickableObject
+[2024.10.22-16.15.45:631][577]LogSlate: Window 'Message' being destroyed
+[2024.10.22-16.15.45:640][577]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assignment/M_Turbo.M_Turbo
+(Selecting 'No' will cause all changes to be lost!)
+[2024.10.22-16.15.45:936][577]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 88C5162FDA2DA2FC0326518AE3C5E93A720A779E), compiling. 
+[2024.10.22-16.15.45:997][577]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F6919D44169316FEAA49F568460A6F33C73A67B5), compiling. 
+[2024.10.22-16.15.46:058][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.22-16.15.46:221][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.22-16.15.46:328][577]LogSlate: Window 'BP_ScoreBonus' being destroyed
+[2024.10.22-16.15.46:333][577]LogSlate: Window 'BP_ScoreBonus' being destroyed
+[2024.10.22-16.15.46:448][577]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.46:448][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.47:235][577]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.47:235][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.47:777][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-16.15.47:777][577]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.47:777][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.48:239][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-16.15.48:239][577]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.48:239][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.48:506][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-16.15.48:506][577]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.48:506][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.49:120][577]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.49:120][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.49:210][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-16.15.49:210][577]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.49:210][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.49:447][577]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.49:448][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.49:513][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-16.15.49:513][577]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.15.49:513][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-16.15.49:628][577]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape3)
+[2024.10.22-16.16.00:154][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2024.10.22-16.16.00:218][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-16.16.00:224][572]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_TurboBD0012124AD5D63CEC9BAD99F66F06FF.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-16.16.00:246][572]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-16.16.00:246][572]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-16.16.02:590][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.10.22-16.16.02:751][779]LogSlate: Window 'VehicleGame - Unreal Editor' being destroyed
+[2024.10.22-16.16.03:827][780]Cmd: QUIT_EDITOR
+[2024.10.22-16.16.03:870][780]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.22-16.16.04:105][780]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.22-16.16.05:095][780]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.22-16.16.05:096][780]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.22-16.16.05:096][780]LogAudio: Display: Audio Device unregistered from world 'DesertRallyRace'.
+[2024.10.22-16.16.05:096][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-16.16.05:101][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-16.16.05:155][780]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.22-16.16.05:184][780]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.22-16.16.05:251][780]LogExit: Preparing to exit.
+[2024.10.22-16.16.06:319][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:444][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:445][780]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:445][780]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:445][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:445][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:445][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:445][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:445][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:446][780]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:446][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.22-16.16.08:447][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.08:447][780]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.09:533][780]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.10.22-16.16.10:698][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.10:811][780]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-16.16.10:834][780]LogExit: Editor shut down
+[2024.10.22-16.16.10:837][780]LogExit: Transaction tracking system shut down
