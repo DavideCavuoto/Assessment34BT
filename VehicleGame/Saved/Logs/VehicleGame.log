@@ -4948,3 +4948,384 @@ Script Stack (0 frames):
 [2024.10.22-12.42.15:701][382]AssetCheck: New page: Asset Save: DesertRallyRace
 [2024.10.22-12.42.15:702][382]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
 [2024.10.22-12.42.17:742][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.10.22-12.56.58:751][748]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-12.56.59:008][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2024.10.22-12.59.16:721][  6]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-12.59.16:778][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.10.22-12.59.17:225][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-12.59.17:237][ 29]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstance779E6DA54AA7A224EA80F7B9701A2054.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-12.59.17:255][ 29]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-12.59.17:255][ 29]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-12.59.37:004][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VG_Bridge_01B)
+[2024.10.22-12.59.37:777][630]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_blowing_sand)
+[2024.10.22-12.59.38:828][729]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject2)
+[2024.10.22-13.01.12:728][812]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-13.01.12:976][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.10.22-13.01.13:481][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-13.01.13:495][841]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstance3F0D661746143A4A288689AF113273B1.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-13.01.13:519][841]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-13.01.13:519][841]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-13.01.22:764][521]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-13.01.22:824][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2024.10.22-13.01.23:537][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-13.01.23:548][566]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstance46152D2C4B790FF0502867ADE2E26C38.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-13.01.23:565][566]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-13.01.23:565][566]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-13.03.11:638][632]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-13.03.11:914][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.10.22-13.03.12:408][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-13.03.12:424][659]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstanceE7730C694022A87A0462B6970ACDDC6F.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-13.03.12:442][659]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-13.03.12:442][659]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-13.03.27:999][772]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-13.03.28:116][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.10.22-13.03.28:889][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-13.03.28:906][809]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectCBCE3B7441D70FEE0EF8CD82BF030267.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-13.03.28:923][809]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-13.03.28:923][809]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-13.03.37:927][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeshPlane_14)
+[2024.10.22-13.03.39:048][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeshPlane_14)
+[2024.10.22-13.03.39:813][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeshPlane_14)
+[2024.10.22-13.03.41:916][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject5)
+[2024.10.22-13.03.48:595][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.03.48:637][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.10.22-13.03.50:408][727]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace6B58D5A84C060018DBDAA084BFEC0DA1.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.03.50:490][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace_BuiltData" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset" SILENT=true
+[2024.10.22-13.04.00:506][727]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_BuiltData9F2F436E46D454CAAA5C64B6EBF7AE6C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset'
+[2024.10.22-13.04.00:922][727]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.04.00:922][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DesertRallyRace_BuiltData.DesertRallyRace_BuiltData
+[2024.10.22-13.04.00:922][727]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.04.07:583][452]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.04.07:590][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.04.07:590][452]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:04:07 PM)
+[2024.10.22-13.04.07:591][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.04.07:918][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326986s)
+[2024.10.22-13.04.07:919][452]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.04.07:919][452]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2024.10.22-13.04.07:920][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.328438s)
+[2024.10.22-13.04.07:958][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.10.22-13.04.07:965][452]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.04.07:965][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.04.07:965][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.04.07:965][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.04.07:966][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.04.07:966][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.04.07:966][452]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.04.07:979][452]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.04.07:979][452]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.04.07:986][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.04.07:986][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.04.07:987][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.04.07:987][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.04.07:987][452]LogInit: FAudioDevice initialized.
+[2024.10.22-13.04.07:987][452]LogAudio: Display: Audio Device (ID: 55) registered with world 'DesertRallyRace'.
+[2024.10.22-13.04.08:001][452]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.04.08:159][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.04.08
+[2024.10.22-13.04.08:160][452]LogWorld: Bringing up level for play took: 0.039404
+[2024.10.22-13.04.08:160][452]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2024.10.22-13.04.08:167][452]PIE: Server logged in
+[2024.10.22-13.04.08:167][452]PIE: Play in editor total start time 0.58 seconds.
+[2024.10.22-13.04.32:907][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.04.32:907][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.04.32:909][200]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.04.32:918][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.04.32:944][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.04.32:958][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.04.33:000][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-13.04.33:000][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.04.33:001][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.04.33:003][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.04.33:019][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.10.22-13.04.33:079][201]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.10.22-13.04.33:116][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.10.22-13.05.08:718][300]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.05.08:724][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.05.08:724][300]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:05:08 PM)
+[2024.10.22-13.05.08:724][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.05.09:050][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326142s)
+[2024.10.22-13.05.09:051][300]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.05.09:052][300]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2024.10.22-13.05.09:052][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.328114s)
+[2024.10.22-13.05.09:092][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.10.22-13.05.09:095][300]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.05.09:095][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.05.09:095][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.05.09:095][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.05.09:095][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.05.09:095][300]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.05.09:108][300]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.05.09:108][300]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.05.09:113][300]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.05.09:113][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.05.09:113][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.05.09:113][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.05.09:114][300]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.05.09:114][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.05.09:114][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.05.09:115][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.05.09:115][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.05.09:115][300]LogInit: FAudioDevice initialized.
+[2024.10.22-13.05.09:115][300]LogAudio: Display: Audio Device (ID: 56) registered with world 'DesertRallyRace'.
+[2024.10.22-13.05.09:125][300]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.05.09:262][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.05.09
+[2024.10.22-13.05.09:263][300]LogWorld: Bringing up level for play took: 0.037729
+[2024.10.22-13.05.09:263][300]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2024.10.22-13.05.09:272][300]PIE: Server logged in
+[2024.10.22-13.05.09:274][300]PIE: Play in editor total start time 0.551 seconds.
+[2024.10.22-13.05.12:677][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.05.12:677][642]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.05.12:678][642]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.05.12:684][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.05.12:708][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.05.12:719][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.05.12:758][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.05.12:766][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.05.12:767][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.05.12:781][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.10.22-13.05.12:827][643]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.10.22-13.05.12:868][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.10.22-13.05.17:518][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.22-13.06.23:054][301]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-13.06.23:058][301]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a VolumetricCloudComponent, therefore ' Target ' must have a connection.
+[2024.10.22-13.06.23:150][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.10.22-13.07.04:690][361]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-13.07.04:799][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2024.10.22-13.07.06:134][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-13.07.06:157][433]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject2EEE9566400A6A3371CC029C6A56E281.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-13.07.06:177][433]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-13.07.06:177][433]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-13.07.24:474][768]LogContentBrowser: Deferred new asset file creation: M_PickableObject1
+[2024.10.22-13.07.24:524][768]LogContentBrowser: Creating deferred item: M_PickableObject1
+[2024.10.22-13.07.32:033][350]LogContentBrowser: Attempting asset rename: M_PickableObject1 -> M_RarePickableObject
+[2024.10.22-13.07.32:987][350]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 9F5FE369F37889E75EC165BC9144E84036896797), compiling. 
+[2024.10.22-13.07.33:553][350]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.10.22-13.07.34:092][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2024.10.22-13.07.34:092][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2024.10.22-13.07.34:092][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2024.10.22-13.07.34:092][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-13.07.34:092][350]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.07.34:092][350]LogContentBrowser: End creating deferred item M_PickableObject1
+[2024.10.22-13.07.36:389][483]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assignment/M_RarePickableObject.M_RarePickableObject
+[2024.10.22-13.07.36:881][483]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: E660CA38CC763E0C7456EDA5C49684ED7BF1F8E5), compiling. 
+[2024.10.22-13.07.38:779][483]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.10.22-13.07.40:484][483]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.10.22-13.07.44:454][483]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 15DED7970C9D40E40C1F590D244BAA2488451C43), compiling. 
+[2024.10.22-13.07.44:746][483]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 61052D13B0E3E1403E0026238F65CC7584F64F1D), compiling. 
+[2024.10.22-13.07.45:298][483]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A303F19D76962EB8019ABE24C88D9E56B9945EE), compiling. 
+[2024.10.22-13.07.45:442][483]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.07.46:830][488]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.07.49:523][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2024.10.22-13.07.49:523][637]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.07.49:747][637]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.07.49:747][637]LogShaderCompilers: Display: Total job queries 30, among them cache hits 0 (0.00%)
+[2024.10.22-13.07.49:747][637]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.10.22-13.07.49:747][637]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.10.22-13.07.49:747][637]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.07.50:116][651]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-13.07.50:116][651]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.07.52:239][749]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.07.58:050][146]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 8EE28A4EE8EB27FB45CC5C0B7F2438705B96370F), compiling. 
+[2024.10.22-13.07.58:107][146]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C978BE961DB2D313C244575A9192E4FBA3B04C4), compiling. 
+[2024.10.22-13.07.58:109][146]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 505C78C2C1CB3284FC48025D517E26C32C52392B), compiling. 
+[2024.10.22-13.07.58:111][146]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: BB356D2C4D679B5DD55D329EDE2C5E266BCCDACB), compiling. 
+[2024.10.22-13.07.58:115][146]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DCA1D38B4BEAFB106EF4A50DA4BC335A7DDC2FB6), compiling. 
+[2024.10.22-13.07.58:117][146]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: F6B2D691735916BFB01524810080DAF67C8DFC75), compiling. 
+[2024.10.22-13.07.58:119][146]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.22-13.07.58:139][146]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.07.58:173][148]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.08.03:726][560]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: D717C3C7A4224B542FBE5263506338C67F579C27), compiling. 
+[2024.10.22-13.08.03:731][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DE91FF7B5177204E260B266FE46BD9096539F68), compiling. 
+[2024.10.22-13.08.03:734][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7208106F7298AB0B9AE752AF93261177A80E57D4), compiling. 
+[2024.10.22-13.08.03:736][560]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 9A84A400A8B5E133EEB1D6655B019D9BAF4305BA), compiling. 
+[2024.10.22-13.08.03:739][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 20D83F81F8C160A65E8287EAA4304FCF643A130C), compiling. 
+[2024.10.22-13.08.03:741][560]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 6A80646FE92FF1C82C99A09639642BF246EF88B1), compiling. 
+[2024.10.22-13.08.03:744][560]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.22-13.08.03:762][560]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.08.03:793][562]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.08.06:296][728]LogMaterialEditor: Saving and Compiling material M_RarePickableObject
+[2024.10.22-13.08.09:991][728]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 9A57D9FCA698C884DEE5B5BDFC2D5862A7645ECD), compiling. 
+[2024.10.22-13.08.10:154][728]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: D40CDDF022A3EEC5B83247F2DC5051581EB9BC38), compiling. 
+[2024.10.22-13.08.10:331][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.10.22-13.08.10:528][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.22-13.08.10:629][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_RarePickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_RarePickableObject.uasset" SILENT=true
+[2024.10.22-13.08.10:634][728]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_RarePickableObject5AB80CA7404007942E2367B1100AE9C2.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_RarePickableObject.uasset'
+[2024.10.22-13.08.10:671][728]AssetCheck: New page: Asset Save: M_RarePickableObject
+[2024.10.22-13.08.10:671][728]LogContentValidation: Display: Validating Material /Game/Assignment/M_RarePickableObject.M_RarePickableObject
+[2024.10.22-13.08.18:190][470]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.08.18:197][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.08.18:197][470]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:08:18 PM)
+[2024.10.22-13.08.18:197][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.08.18:552][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.355210s)
+[2024.10.22-13.08.18:572][470]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.08.18:573][470]LogPlayLevel: PIE: World Init took: (0.020642s)
+[2024.10.22-13.08.18:573][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.376073s)
+[2024.10.22-13.08.18:613][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.10.22-13.08.18:617][470]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.08.18:617][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.08.18:617][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.08.18:618][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.08.18:618][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.08.18:618][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.08.18:618][470]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.08.18:630][470]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.08.18:630][470]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.08.18:635][470]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.08.18:636][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.08.18:636][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.08.18:636][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.08.18:637][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.08.18:637][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.08.18:637][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.08.18:638][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.08.18:638][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.08.18:638][470]LogInit: FAudioDevice initialized.
+[2024.10.22-13.08.18:638][470]LogAudio: Display: Audio Device (ID: 57) registered with world 'DesertRallyRace'.
+[2024.10.22-13.08.18:649][470]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.08.18:807][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.08.18
+[2024.10.22-13.08.18:808][470]LogWorld: Bringing up level for play took: 0.038099
+[2024.10.22-13.08.18:809][470]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2024.10.22-13.08.18:860][470]PIE: Server logged in
+[2024.10.22-13.08.18:861][470]PIE: Play in editor total start time 0.665 seconds.
+[2024.10.22-13.08.33:707][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.08.33:707][112]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.08.33:709][112]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.08.33:718][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.08.33:745][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.08.33:761][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.08.33:797][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.08.33:805][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.08.33:806][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.08.33:823][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.10.22-13.08.33:874][113]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.10.22-13.08.33:912][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.22-13.08.45:779][859]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-13.08.45:887][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.10.22-13.08.46:587][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-13.08.46:606][890]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectF111369B4D4137E6073D16B494579D74.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-13.08.46:626][890]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-13.08.46:626][890]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-13.08.53:669][517]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.08.53:678][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.08.53:678][517]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:08:53 PM)
+[2024.10.22-13.08.53:678][517]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.08.54:002][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.324242s)
+[2024.10.22-13.08.54:003][517]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.08.54:003][517]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2024.10.22-13.08.54:003][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.325466s)
+[2024.10.22-13.08.54:045][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.10.22-13.08.54:046][517]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.08.54:047][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.08.54:047][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.08.54:047][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.08.54:047][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.08.54:047][517]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.08.54:063][517]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.08.54:063][517]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.08.54:068][517]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.08.54:068][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.08.54:068][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.08.54:068][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.08.54:069][517]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.08.54:069][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.08.54:069][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.08.54:070][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.08.54:070][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.08.54:070][517]LogInit: FAudioDevice initialized.
+[2024.10.22-13.08.54:070][517]LogAudio: Display: Audio Device (ID: 58) registered with world 'DesertRallyRace'.
+[2024.10.22-13.08.54:083][517]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.08.54:227][517]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.08.54
+[2024.10.22-13.08.54:228][517]LogWorld: Bringing up level for play took: 0.036383
+[2024.10.22-13.08.54:298][517]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2024.10.22-13.08.54:304][517]PIE: Server logged in
+[2024.10.22-13.08.54:305][517]PIE: Play in editor total start time 0.631 seconds.
+[2024.10.22-13.09.11:008][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.09.11:008][371]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.09.11:009][371]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.09.11:015][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.09.11:036][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.09.11:048][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.09.11:089][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.09.11:098][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.09.11:099][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.09.11:128][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.10.22-13.09.11:179][372]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.10.22-13.09.11:215][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.10.22-13.09.52:638][117]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-13.09.52:750][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.10.22-13.09.53:342][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-13.09.53:360][145]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject61DA66844C4D31B5574E4782AF46B13B.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-13.09.53:379][145]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-13.09.53:379][145]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-13.10.12:813][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject14)
+[2024.10.22-13.10.21:622][942]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject24)
+[2024.10.22-13.10.23:345][ 99]Cmd: EDIT COPY
+[2024.10.22-13.10.24:038][ 99]Cmd: EDIT PASTE
+[2024.10.22-13.10.44:050][ 73]Cmd: EDIT COPY
+[2024.10.22-13.10.44:243][ 94]Cmd: EDIT PASTE
+[2024.10.22-13.10.46:881][381]Cmd: EDIT COPY
+[2024.10.22-13.10.47:082][404]Cmd: EDIT PASTE
+[2024.10.22-13.11.00:275][842]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject37)
+[2024.10.22-13.11.03:083][149]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject36)
+[2024.10.22-13.11.06:010][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.11.06:123][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2024.10.22-13.11.07:902][457]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRaceF151546A487CFE077597B99D2FE5164A.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.11.07:919][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace_BuiltData" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset" SILENT=true
+[2024.10.22-13.11.11:371][457]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_BuiltDataEF3445A24D2BB443BEECD1B7E9DE479C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset'
+[2024.10.22-13.11.11:418][457]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.11.11:418][457]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DesertRallyRace_BuiltData.DesertRallyRace_BuiltData
+[2024.10.22-13.11.11:418][457]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.11.38:551][649]LogEditorViewport: Clicking on Actor (LMB): BP_PickableObject_C (BP_PickableObject25)
+[2024.10.22-13.11.41:225][894]Cmd: EDIT COPY
+[2024.10.22-13.11.41:429][913]Cmd: EDIT PASTE
+[2024.10.22-13.11.47:831][605]Cmd: EDIT COPY
+[2024.10.22-13.11.48:056][630]Cmd: EDIT PASTE
+[2024.10.22-13.11.51:118][968]Cmd: TRANSACTION UNDO
+[2024.10.22-13.11.51:118][968]LogEditorTransaction: Undo Move Actors
+[2024.10.22-13.11.51:179][968]LogMaterial: Display: Missing cached shadermap for M_RarePickableObject in PCD3D_SM5, Default, SM5 (DDC key hash: 3320C6BDA6BE82CD426AD066E022FCEEDAA91D85), compiling. 
+[2024.10.22-13.11.51:192][968]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.11.51:303][970]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.11.51:303][970]LogShaderCompilers: Display: Total job queries 58, among them cache hits 28 (48.28%)
+[2024.10.22-13.11.51:303][970]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 14 distinct outputs (77.78%)
+[2024.10.22-13.11.51:303][970]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2024.10.22-13.11.51:303][970]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.11.51:342][971]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.11.57:172][526]Cmd: EDIT COPY
+[2024.10.22-13.11.57:335][538]Cmd: EDIT PASTE
+[2024.10.22-13.12.27:357][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.10.22-13.12.27:389][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.12.27:426][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.22-13.12.29:235][732]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace756EAC864894778C0E8B0C8A439D8C08.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.12.29:249][732]LogFileHelpers: Saving map 'DesertRallyRace' took 1.862
+[2024.10.22-13.12.29:394][732]AssetCheck: New page: Asset Save: DesertRallyRace
+[2024.10.22-13.12.29:394][732]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
