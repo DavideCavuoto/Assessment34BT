@@ -5329,3 +5329,1103 @@ Script Stack (0 frames):
 [2024.10.22-13.12.29:249][732]LogFileHelpers: Saving map 'DesertRallyRace' took 1.862
 [2024.10.22-13.12.29:394][732]AssetCheck: New page: Asset Save: DesertRallyRace
 [2024.10.22-13.12.29:394][732]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.26.20:209][ 58]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume369)
+[2024.10.22-13.26.21:090][ 77]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume369)
+[2024.10.22-13.26.24:318][408]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2024.10.22-13.26.27:652][593]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.22-13.26.27:668][593]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.10.22-13.26.29:762][593]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.22-13.26.29:813][593]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.22-13.26.29:830][593]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.22-13.26.36:284][ 83]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TurboBoost
+[2024.10.22-13.26.36:466][ 83]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.22-13.26.38:374][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.30.12:372][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.30.12:385][383]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost0F07BC7C4390548EAE4381AE81073966.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.30.12:407][383]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.30.12:407][383]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.30.13:932][499]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.30.13:933][499]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_TurboBoost.uasset: [Compiler] This blueprint (self) is not a FloatingPawnMovement, therefore ' Target ' must have a connection.
+[2024.10.22-13.30.13:978][499]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_TurboBoost.uasset: [Compiler] Variable node  Set MaxSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.22-13.30.14:052][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2024.10.22-13.31.51:864][983]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2024.10.22-13.31.51:867][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 0.058
+[2024.10.22-13.31.51:868][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assignment/BP_TurboBoost] ([2] browsable assets)...
+[2024.10.22-13.31.51:878][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost]
+[2024.10.22-13.31.51:878][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/BP_TurboBoost]
+[2024.10.22-13.31.51:893][983]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost_Auto50F46527346E481A3C70F2A862709FA22.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/BP_TurboBoost_Auto5.uasset'
+[2024.10.22-13.31.51:894][983]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.10.22-13.35.13:946][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.35.13:960][684]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost8938765C41B0814BEB2ABEB06D4337B1.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.35.13:983][684]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.35.13:983][684]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.35.14:998][759]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.35.15:106][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2024.10.22-13.35.15:795][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.35.15:809][802]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoostCBB9099F44F7D53AC70E688F030C17B4.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.35.15:827][802]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.35.15:827][802]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.35.54:881][559]Cmd: MODE ROTGRID=0
+[2024.10.22-13.36.00:729][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CityWall_Straight_5)
+[2024.10.22-13.36.01:226][235]LogEditorViewport: Clicking on Actor (LMB): BP_TurboBoost_C (BP_TurboBoost)
+[2024.10.22-13.36.07:074][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.36.07:120][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2024.10.22-13.36.08:931][782]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace2F989570419BF12CBC2C93943600EA0D.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.36.08:949][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace_BuiltData" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset" SILENT=true
+[2024.10.22-13.36.12:364][782]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_BuiltData2A0D70604CC74E6DB014189F44781168.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset'
+[2024.10.22-13.36.12:410][782]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.36.12:411][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DesertRallyRace_BuiltData.DesertRallyRace_BuiltData
+[2024.10.22-13.36.12:411][782]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.36.12:896][822]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.36.12:911][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.36.12:911][822]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:36:12 PM)
+[2024.10.22-13.36.12:911][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.36.13:234][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.321976s)
+[2024.10.22-13.36.13:235][822]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.36.13:235][822]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2024.10.22-13.36.13:236][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.323400s)
+[2024.10.22-13.36.13:285][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.10.22-13.36.13:288][822]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.10.22-13.36.13:288][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.36.13:288][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.36.13:288][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.36.13:288][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.36.13:289][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.36.13:289][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.36.13:289][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.36.13:289][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.36.13:289][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.36.13:289][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.36.13:289][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.36.13:289][822]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.36.13:307][822]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.36.13:307][822]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.36.13:315][822]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.36.13:315][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.36.13:315][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.36.13:315][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.36.13:316][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.36.13:316][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.36.13:316][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.36.13:318][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.36.13:318][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.36.13:318][822]LogInit: FAudioDevice initialized.
+[2024.10.22-13.36.13:318][822]LogAudio: Display: Audio Device (ID: 59) registered with world 'DesertRallyRace'.
+[2024.10.22-13.36.13:332][822]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.36.13:487][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.36.13
+[2024.10.22-13.36.13:488][822]LogWorld: Bringing up level for play took: 0.038245
+[2024.10.22-13.36.13:488][822]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2024.10.22-13.36.13:494][822]PIE: Server logged in
+[2024.10.22-13.36.13:495][822]PIE: Play in editor total start time 0.595 seconds.
+[2024.10.22-13.37.02:458][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.37.02:458][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.37.02:459][ 35]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.37.02:466][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.37.02:482][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.37.02:501][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.37.02:551][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.37.02:552][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.37.02:553][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.37.02:571][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.10.22-13.37.02:625][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.10.22-13.37.02:670][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.10.22-13.38.07:299][378]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.38.07:382][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2024.10.22-13.38.08:126][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.38.08:141][421]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost72837B004004D3E34EF5D49742290C60.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.38.08:163][421]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.38.08:163][421]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.38.10:442][623]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.38.10:449][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.38.10:449][623]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:38:10 PM)
+[2024.10.22-13.38.10:449][623]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.38.10:776][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326969s)
+[2024.10.22-13.38.10:777][623]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.38.10:777][623]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2024.10.22-13.38.10:777][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.328270s)
+[2024.10.22-13.38.10:819][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.10.22-13.38.10:820][623]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.10.22-13.38.10:820][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.38.10:820][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.38.10:821][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.38.10:821][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.38.10:821][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.38.10:821][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.38.10:821][623]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.38.10:833][623]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.38.10:833][623]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.38.10:839][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.38.10:839][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.38.10:840][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.38.10:840][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.38.10:840][623]LogInit: FAudioDevice initialized.
+[2024.10.22-13.38.10:840][623]LogAudio: Display: Audio Device (ID: 60) registered with world 'DesertRallyRace'.
+[2024.10.22-13.38.10:850][623]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.38.10:996][623]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.38.10
+[2024.10.22-13.38.10:996][623]LogWorld: Bringing up level for play took: 0.035713
+[2024.10.22-13.38.10:996][623]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2024.10.22-13.38.11:001][623]PIE: Server logged in
+[2024.10.22-13.38.11:002][623]PIE: Play in editor total start time 0.556 seconds.
+[2024.10.22-13.38.54:728][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.38.54:728][438]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.38.54:730][438]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.38.54:736][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.38.54:763][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.38.54:778][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.38.54:826][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-13.38.54:827][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.38.54:828][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.38.54:830][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.38.54:842][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.10.22-13.38.54:894][439]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.10.22-13.38.54:939][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.10.22-13.39.10:113][278]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.39.10:188][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.10.22-13.39.10:931][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.39.10:942][319]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost5946A1FB474597B57F77B4AB1A6051F7.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.39.10:960][319]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.39.10:960][319]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.39.14:738][636]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.39.14:747][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.39.14:747][636]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:39:14 PM)
+[2024.10.22-13.39.14:748][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.39.15:087][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.339031s)
+[2024.10.22-13.39.15:088][636]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.39.15:088][636]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2024.10.22-13.39.15:088][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.340954s)
+[2024.10.22-13.39.15:131][636]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2024.10.22-13.39.15:133][636]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.39.15:133][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.39.15:133][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.39.15:134][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.39.15:134][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.39.15:134][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.39.15:134][636]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.39.15:146][636]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.39.15:146][636]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.39.15:151][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.39.15:151][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.39.15:153][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.39.15:153][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.39.15:153][636]LogInit: FAudioDevice initialized.
+[2024.10.22-13.39.15:153][636]LogAudio: Display: Audio Device (ID: 61) registered with world 'DesertRallyRace'.
+[2024.10.22-13.39.15:162][636]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.39.15:319][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.39.15
+[2024.10.22-13.39.15:320][636]LogWorld: Bringing up level for play took: 0.041215
+[2024.10.22-13.39.15:320][636]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2024.10.22-13.39.15:328][636]PIE: Server logged in
+[2024.10.22-13.39.15:329][636]PIE: Play in editor total start time 0.584 seconds.
+[2024.10.22-13.39.54:068][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.39.54:068][924]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.39.54:070][924]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.39.54:076][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.39.54:102][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.39.54:120][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.39.54:164][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-13.39.54:164][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.39.54:165][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.39.54:167][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.39.54:183][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.10.22-13.39.54:243][925]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.10.22-13.39.54:282][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.10.22-13.40.12:474][261]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.40.12:549][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.10.22-13.40.12:933][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.40.12:948][277]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost35320CCB49388D092B6DAF85AA56EEDD.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.40.12:966][277]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.40.12:966][277]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.40.21:040][867]LogEditorViewport: Clicking on Actor (LMB): BP_TurboBoost_C (BP_TurboBoost)
+[2024.10.22-13.40.38:343][ 21]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.40.38:421][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.10.22-13.40.38:846][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.40.38:859][ 36]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoostC7EC69354D48656A25B74595530FD63B.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.40.38:880][ 36]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.40.38:880][ 36]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.40.51:337][295]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.40.51:345][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.40.51:345][295]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:40:51 PM)
+[2024.10.22-13.40.51:345][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.40.51:686][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.340169s)
+[2024.10.22-13.40.51:686][295]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.40.51:687][295]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2024.10.22-13.40.51:687][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.341663s)
+[2024.10.22-13.40.51:730][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2024.10.22-13.40.51:732][295]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.40.51:732][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.40.51:732][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.40.51:733][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.40.51:733][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.40.51:733][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.40.51:733][295]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.40.51:745][295]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.40.51:745][295]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.40.51:750][295]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.40.51:751][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.40.51:751][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.40.51:751][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.40.51:751][295]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.40.51:751][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.40.51:751][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.40.51:752][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.40.51:752][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.40.51:752][295]LogInit: FAudioDevice initialized.
+[2024.10.22-13.40.51:752][295]LogAudio: Display: Audio Device (ID: 62) registered with world 'DesertRallyRace'.
+[2024.10.22-13.40.51:762][295]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.40.51:917][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.40.51
+[2024.10.22-13.40.51:918][295]LogWorld: Bringing up level for play took: 0.039176
+[2024.10.22-13.40.51:918][295]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2024.10.22-13.40.51:924][295]PIE: Server logged in
+[2024.10.22-13.40.51:925][295]PIE: Play in editor total start time 0.583 seconds.
+[2024.10.22-13.40.56:108][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.40.56:108][754]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.40.56:110][754]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.40.56:116][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.40.56:131][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.40.56:144][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.40.56:189][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-13.40.56:192][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.40.56:193][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.40.56:196][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.40.56:213][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.10.22-13.40.56:257][755]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.10.22-13.40.56:298][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.10.22-13.41.03:495][514]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape3)
+[2024.10.22-13.41.05:859][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.41.05:859][676]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:41:05 PM)
+[2024.10.22-13.41.05:859][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.41.06:210][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.350316s)
+[2024.10.22-13.41.06:211][676]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.41.06:211][676]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2024.10.22-13.41.06:212][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.352311s)
+[2024.10.22-13.41.06:377][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.10.22-13.41.06:381][676]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.41.06:381][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.41.06:381][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.41.06:382][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.41.06:382][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.41.06:382][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.41.06:382][676]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.41.06:397][676]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.41.06:397][676]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.41.06:402][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.41.06:402][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.41.06:404][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.41.06:404][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.41.06:404][676]LogInit: FAudioDevice initialized.
+[2024.10.22-13.41.06:404][676]LogAudio: Display: Audio Device (ID: 63) registered with world 'DesertRallyRace'.
+[2024.10.22-13.41.06:417][676]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.41.06:555][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.41.06
+[2024.10.22-13.41.06:557][676]LogWorld: Bringing up level for play took: 0.035109
+[2024.10.22-13.41.06:557][676]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2024.10.22-13.41.06:562][676]PIE: Server logged in
+[2024.10.22-13.41.06:563][676]PIE: Play in editor total start time 0.705 seconds.
+[2024.10.22-13.42.01:531][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.42.01:531][242]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.42.01:533][242]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.42.01:541][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.42.01:553][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.42.01:573][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.42.01:631][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-13.42.01:631][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.42.01:632][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.42.01:636][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.42.01:647][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.22-13.42.01:714][243]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.10.22-13.42.01:759][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.22-13.42.26:214][816]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.42.26:282][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.10.22-13.42.35:819][444]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.42.35:887][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.10.22-13.42.36:384][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.42.36:402][470]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost3DFBEA9F4EB4025FF98A1A9C636ED0B4.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.42.36:422][470]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.42.36:422][470]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.42.43:834][125]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume369)
+[2024.10.22-13.42.50:948][902]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume369)
+[2024.10.22-13.42.51:355][944]LogEditorViewport: Clicking on Actor (LMB): BP_TurboBoost_C (BP_TurboBoost)
+[2024.10.22-13.42.59:252][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.42.59:298][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.10.22-13.43.01:101][780]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRaceA0DFB3D847C26EF4DF58B6945630718C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.43.01:119][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace_BuiltData" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset" SILENT=true
+[2024.10.22-13.43.04:609][780]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_BuiltDataF440BE6A44B19D11698A248D57873A54.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace_BuiltData.uasset'
+[2024.10.22-13.43.04:958][780]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.43.04:958][780]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DesertRallyRace_BuiltData.DesertRallyRace_BuiltData
+[2024.10.22-13.43.04:958][780]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.43.05:439][833]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-13.43.05:448][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-13.43.05:449][833]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 5:43:05 PM)
+[2024.10.22-13.43.05:449][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.43.05:804][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.354732s)
+[2024.10.22-13.43.05:805][833]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-13.43.05:806][833]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2024.10.22-13.43.05:806][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.356301s)
+[2024.10.22-13.43.05:852][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.10.22-13.43.05:853][833]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-13.43.05:853][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-13.43.05:853][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-13.43.05:853][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-13.43.05:853][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-13.43.05:853][833]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-13.43.05:866][833]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-13.43.05:866][833]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-13.43.05:872][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-13.43.05:872][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-13.43.05:873][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-13.43.05:873][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-13.43.05:873][833]LogInit: FAudioDevice initialized.
+[2024.10.22-13.43.05:873][833]LogAudio: Display: Audio Device (ID: 64) registered with world 'DesertRallyRace'.
+[2024.10.22-13.43.05:886][833]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-13.43.06:038][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-15.43.06
+[2024.10.22-13.43.06:039][833]LogWorld: Bringing up level for play took: 0.035590
+[2024.10.22-13.43.06:039][833]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2024.10.22-13.43.06:045][833]PIE: Server logged in
+[2024.10.22-13.43.06:046][833]PIE: Play in editor total start time 0.601 seconds.
+[2024.10.22-13.44.18:068][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.44.18:068][624]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-13.44.18:070][624]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-13.44.18:077][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.44.18:101][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-13.44.18:114][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-13.44.18:161][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-13.44.18:161][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.44.18:162][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-13.44.18:182][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.10.22-13.44.18:245][625]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.10.22-13.44.18:286][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.10.22-13.45.46:408][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.10.22-13.45.46:450][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-13.45.46:493][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.22-13.45.48:626][383]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace6AF08FF4412AB10A936831A43BE4B276.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-13.45.48:642][383]LogFileHelpers: Saving map 'DesertRallyRace' took 2.193
+[2024.10.22-13.45.48:696][383]AssetCheck: New page: Asset Save: DesertRallyRace
+[2024.10.22-13.45.48:696][383]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-13.50.50:341][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Davide/Desktop/TurboTexture.png)
+[2024.10.22-13.50.50:580][283]LogTexture: Display: Building textures: TurboTexture (OODLE_AutoDXT, 1024X1024)
+[2024.10.22-13.50.50:689][283]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.51.05:652][494]LogContentBrowser: Deferred new asset file creation: M_PickableObject1
+[2024.10.22-13.51.05:755][494]LogContentBrowser: Creating deferred item: M_PickableObject1
+[2024.10.22-13.51.09:492][816]LogContentBrowser: Attempting asset rename: M_PickableObject1 -> M_Turbo
+[2024.10.22-13.51.09:497][816]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: B86FFD16B1188A463EB35A1C51463DEDF38C0100), compiling. 
+[2024.10.22-13.51.09:525][816]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.10.22-13.51.09:526][816]LogContentBrowser: End creating deferred item M_PickableObject1
+[2024.10.22-13.51.09:546][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.51.09:547][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.51.09:547][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.10.22-13.51.09:547][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.10.22-13.51.09:547][817]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.51.09:547][817]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.11:677][958]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-13.51.11:679][958]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 3FC7BBCE103F3F81FDC18D1945DA5EE6CB73FAEC), compiling. 
+[2024.10.22-13.51.11:790][958]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 9C49CF2C945CE57B042D435FBD9E0FCA74659CB3), compiling. 
+[2024.10.22-13.51.11:793][958]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: D2FB291DE5B2C848A7DF09557A0AE0D4BF23D18B), compiling. 
+[2024.10.22-13.51.11:797][958]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 973BDA9DB698F7F2F7CA82BAA296EA50490D6FD9), compiling. 
+[2024.10.22-13.51.11:821][958]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.11:959][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.51.11:959][961]LogShaderCompilers: Display: Total job queries 88, among them cache hits 30 (34.09%)
+[2024.10.22-13.51.11:959][961]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 14 distinct outputs (77.78%)
+[2024.10.22-13.51.11:959][961]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2024.10.22-13.51.11:959][961]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.51.13:671][ 50]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.10.22-13.51.13:685][ 50]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.51.13:740][ 51]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.10.22-13.51.13:740][ 51]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.51.13:777][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.51.15:424][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.10.22-13.51.15:424][122]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.51.15:424][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.10.22-13.51.15:424][122]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.51.19:422][363]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F379F7FE3F61F48CCEB8ED59E8A10F8EF6B165CD), compiling. 
+[2024.10.22-13.51.19:424][363]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DBCF70C15E3FD5693A98EF831DADE57711C2F2BF), compiling. 
+[2024.10.22-13.51.19:454][363]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.19:590][365]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.51.28:357][866]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 0919B0335C8F2A1D054B83FC82B49F27C8EA1159), compiling. 
+[2024.10.22-13.51.28:361][866]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D073D39111B754700F1A176FDF9610279B582E7F), compiling. 
+[2024.10.22-13.51.28:380][866]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 74FB0476D17D3F895BDC069E574A92668802A857), compiling. 
+[2024.10.22-13.51.28:405][866]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.28:461][867]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.51.28:462][867]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.28:468][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.51.28:468][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.51.28:468][867]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.32:149][105]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: C9E85353FDB1ADDF0DB54FB2106FC25918B23223), compiling. 
+[2024.10.22-13.51.32:151][105]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D5E828A83EE420A17A8D3F7C635DF4A5D85D360), compiling. 
+[2024.10.22-13.51.32:157][105]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.32:157][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.32:157][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.32:174][106]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.32:174][106]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.51.32:174][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.51.32:174][106]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.32:824][135]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.51.32:824][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.32:824][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.34:911][267]LogMaterialEditor: Saving and Compiling material M_Turbo
+[2024.10.22-13.51.37:941][267]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: AAE27B47C5AF62F83C14EB46AFC6871C8255532A), compiling. 
+[2024.10.22-13.51.38:035][267]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: C0745F9EEE21E9C25D853F02C7362645FC1A3F74), compiling. 
+[2024.10.22-13.51.38:193][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.10.22-13.51.38:216][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.38:614][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.51.38:614][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.51.38:614][267]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.38:694][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.22-13.51.38:748][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-13.51.38:753][267]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_TurboC78C3781433E2EC991986596FF97BBB6.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-13.51.38:775][267]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-13.51.38:775][267]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-13.52.07:524][220]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.52.13:878][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.52.13:878][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.52.13:878][221]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.52.16:583][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-13.52.16:595][367]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost6984D80A4E74608F1E0FA792B5A056CB.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-13.52.16:618][367]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-13.52.16:618][367]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-13.52.18:817][474]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-13.52.19:075][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2024.10.22-13.52.39:278][771]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 3ACCF2CD702D0C737E39E90F300BA8D38FCF1FF7), compiling. 
+[2024.10.22-13.52.39:282][771]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.52.39:282][771]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.52.39:282][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.52.39:344][773]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.52.39:344][773]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.52.39:344][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.29:455][285]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F592CDAE7AC8135FF4BFDD1549BBFFA3F708594E), compiling. 
+[2024.10.22-13.53.29:466][285]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.53.29:466][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.29:466][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.29:525][287]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.53.29:525][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.29:525][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.42:083][832]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 8038BA94917AB016278183947FA95B113D1914C4), compiling. 
+[2024.10.22-13.53.42:095][832]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.53.42:095][832]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.42:095][832]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.42:461][834]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.53.42:461][834]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.42:461][834]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.45:442][ 31]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 1390116F78A342EFAB5C6A3506B8305258C800E1), compiling. 
+[2024.10.22-13.53.45:448][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.53.45:448][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.45:448][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.53.45:479][ 33]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.53.45:479][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.53.45:479][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.33:556][ 49]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F0034B329C32DD7E12C7F140B2C082E451CD5380), compiling. 
+[2024.10.22-13.54.33:560][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.54.33:560][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.33:560][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.33:635][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.54.33:635][ 51]LogShaderCompilers: Display: Total job queries 128, among them cache hits 62 (48.44%)
+[2024.10.22-13.54.33:635][ 51]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 19 distinct outputs (45.24%)
+[2024.10.22-13.54.33:635][ 51]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2024.10.22-13.54.33:635][ 51]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.54.33:648][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.54.33:648][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.33:648][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.44:971][841]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 27E1A70B808A329DD0A21CD52BCD21D1E92844CB), compiling. 
+[2024.10.22-13.54.44:977][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.54.44:977][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.44:977][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.45:009][843]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.54.45:009][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.45:009][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.46:601][945]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 6D48DB5B60047C215581F760047F54D2BE848BC4), compiling. 
+[2024.10.22-13.54.46:646][945]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B3B84D8D5982401968083713879D4D0570CC59DC), compiling. 
+[2024.10.22-13.54.46:652][945]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.54.46:652][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.46:652][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.54.46:669][946]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.54.46:669][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.54.46:669][946]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.54.46:669][946]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.54.46:689][947]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.54.46:689][947]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.22-13.54.46:689][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-13.54.46:689][947]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.54.48:135][ 19]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.54.48:135][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.54.48:135][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.55.47:372][355]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2024.10.22-13.55.49:314][355]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto6DD06B716476628F8E5539EB16196C4B7.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto6.umap'
+[2024.10.22-13.55.49:318][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 2.526
+[2024.10.22-13.55.49:318][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.526
+[2024.10.22-13.55.49:319][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assignment/TurboTexture] ([1] browsable assets)...
+[2024.10.22-13.55.49:328][355]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assignment/TurboTexture.TurboTexture]
+[2024.10.22-13.55.49:328][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/TurboTexture]
+[2024.10.22-13.55.49:331][355]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/TurboTexture_Auto621C935C5427CA044E363F681FC1D84D5.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/TurboTexture_Auto6.uasset'
+[2024.10.22-13.55.49:332][355]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.10.22-13.56.11:450][540]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 45C676E3C8EB4C99A75FABCF9805B0CEA408D763), compiling. 
+[2024.10.22-13.56.11:456][540]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.11:456][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.11:456][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.11:531][542]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.11:531][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.11:531][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.22:585][296]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 84513DA05C88A36835067ACCC03C54E346A79DD6), compiling. 
+[2024.10.22-13.56.22:596][296]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.22:596][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.22:596][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.22:652][298]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.22:652][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.22:652][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.24:638][423]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 14C4AF3C439005CCA193FB68C0189E0D2EE517C3), compiling. 
+[2024.10.22-13.56.24:644][423]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.24:644][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.24:644][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.24:679][425]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.24:679][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.24:679][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.25:774][491]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 00999F102C27A4FD56B5BD75F67DE9A1D894767E), compiling. 
+[2024.10.22-13.56.25:780][491]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.25:780][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.25:780][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.25:815][493]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.25:815][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.25:815][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.27:287][586]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: DCFF151A00EDA3E6817EBBF1597A48C6A2CA43B0), compiling. 
+[2024.10.22-13.56.27:294][586]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.27:294][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.27:294][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.27:309][587]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.27:325][588]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.56.27:325][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.56.27:325][588]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.28:179][630]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.28:179][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.28:179][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.30:777][798]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: B0D44BD4CB17A524F5AAA177266AD85AD01FE52C), compiling. 
+[2024.10.22-13.56.30:781][798]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.30:801][798]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.30:801][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.56.30:801][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.56.30:801][798]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.31:486][832]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.56.34:309][ 16]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 30176090E75B2161656400F87E3C2D1C35EA6DB8), compiling. 
+[2024.10.22-13.56.34:313][ 16]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 176AE0D6289B872C9072AED89503E2B77ED65077), compiling. 
+[2024.10.22-13.56.34:319][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.34:319][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2024.10.22-13.56.34:347][ 18]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:347][ 18]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:352][ 18]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2024.10.22-13.56.34:352][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.10.22-13.56.34:352][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.10.22-13.56.34:352][ 18]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:378][ 18]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:378][ 18]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-13.56.34:378][ 18]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:386][ 18]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:392][ 18]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.34:401][ 18]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.35:003][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2024.10.22-13.56.35:003][ 46]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.35:029][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.22-13.56.35:029][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2024.10.22-13.56.35:274][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2024.10.22-13.56.35:274][ 58]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.35:337][ 59]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2024.10.22-13.56.35:338][ 59]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.35:380][ 60]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.10.22-13.56.35:380][ 60]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.56.35:405][ 61]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.56.35:405][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2024.10.22-13.56.41:063][431]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 1A93FEF868C62BCA71A398D52C57D35F6F752635), compiling. 
+[2024.10.22-13.56.41:068][431]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.41:109][433]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.22-13.56.46:509][760]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 62166F9031679AB2BBA76C53884C79704604A9CB), compiling. 
+[2024.10.22-13.56.46:512][760]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD935293A2BC2CBEAEBA0ADC01C51D93C903318), compiling. 
+[2024.10.22-13.56.46:517][760]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.56.46:517][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.46:517][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.56.46:555][762]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.56.46:555][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.56.46:555][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.42:878][154]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: A9188FDD285B8FB42A0A1215CDDEC392377A7CC8), compiling. 
+[2024.10.22-13.57.42:891][154]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.57.42:891][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.42:891][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.42:924][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.57.42:924][155]LogShaderCompilers: Display: Total job queries 189, among them cache hits 106 (56.08%)
+[2024.10.22-13.57.42:924][155]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 31 distinct outputs (52.54%)
+[2024.10.22-13.57.42:924][155]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2024.10.22-13.57.42:924][155]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.57.42:944][156]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.57.42:944][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.42:944][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.48:501][504]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 1AF7AF3EB7FB49A274891AEB6DA5CBF6CF07685F), compiling. 
+[2024.10.22-13.57.48:506][504]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: CB79CA8DCED469F3CF573DA9AD09B7A0B359816B), compiling. 
+[2024.10.22-13.57.48:521][504]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.57.48:521][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.48:521][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.48:573][506]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.57.48:573][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.48:573][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.51:912][725]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 5767596D7E30ECD221DB21F5156B57365B1ECC2A), compiling. 
+[2024.10.22-13.57.51:913][725]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Turbo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.10.22-13.57.51:913][725]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input A
+[2024.10.22-13.57.51:917][725]MaterialEditorStats: Error: [SM5] (Node AppendVector) Missing AppendVector input A
+[2024.10.22-13.57.53:143][801]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: B8F311D972F7A5ADFE7FCCC27D180C5610B4B573), compiling. 
+[2024.10.22-13.57.53:143][801]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Turbo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.10.22-13.57.53:143][801]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input A
+[2024.10.22-13.57.57:113][ 40]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 8F69B9DEFDE4AD8C956BD853C5251601DAC9EB8E), compiling. 
+[2024.10.22-13.57.57:121][ 40]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.57.57:121][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.57:121][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.57.57:148][ 41]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.57.57:148][ 41]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.57.57:148][ 41]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.57.57:148][ 41]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.57.58:160][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.57.58:160][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.57.58:160][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.14:534][603]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: EADE325CB2687D82BBBECD5D33A230A0B4894D04), compiling. 
+[2024.10.22-13.58.14:539][603]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.14:539][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.14:539][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.14:573][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.14:573][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.58.14:573][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.58.14:573][603]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.15:226][634]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.15:226][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.15:226][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.15:537][653]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 61836680B2F639509693BDD26D444D147DA40934), compiling. 
+[2024.10.22-13.58.15:544][653]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.15:544][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.15:544][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.15:561][654]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.15:580][655]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.58.15:580][655]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.58.15:580][655]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.16:213][687]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.16:213][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.16:213][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.20:646][985]LogMaterialEditor: Saving and Compiling material M_Turbo
+[2024.10.22-13.58.20:957][985]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 37431339E95CFFC33CF3A84075A96C1F11833EA0), compiling. 
+[2024.10.22-13.58.21:023][985]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 55A4378B9CCCA630AB9DA7BF449AE3E4B30D11F3), compiling. 
+[2024.10.22-13.58.21:087][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2024.10.22-13.58.21:103][985]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-13.58.21:515][985]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.21:582][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.22-13.58.21:813][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-13.58.21:820][985]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_TurboE57E5B3549B99F4B929AB98E1B6F9348.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-13.58.21:842][985]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-13.58.21:842][985]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-13.58.40:329][928]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 1565E6090B8E737E078C98846F9D70266F7C9EBE), compiling. 
+[2024.10.22-13.58.40:334][928]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.40:334][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.40:334][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.40:366][928]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.40:366][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.58.40:366][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.58.40:366][928]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.58.41:004][957]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.41:004][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.41:004][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.41:281][976]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F6465EEDBDADEB1A150150209E541C549DDC9670), compiling. 
+[2024.10.22-13.58.41:289][976]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.41:289][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.41:289][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.41:323][978]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.41:323][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.41:323][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.42:848][ 70]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: CC4DDCF5FCBA628CB0DD167C0E7E65F920A14E15), compiling. 
+[2024.10.22-13.58.42:856][ 70]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.42:856][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.42:856][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.42:890][ 72]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.42:890][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.42:891][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.49:747][518]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 596A1BC2BD0F3A273F7CF1B3E0D964B0D666593A), compiling. 
+[2024.10.22-13.58.49:751][518]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: F5FDC1E7CEFF9B8DE14F3D68F077991812D78E77), compiling. 
+[2024.10.22-13.58.49:754][518]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.49:754][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.49:754][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.49:786][520]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.49:786][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.49:786][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.54:329][841]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: C15DBDD8361263923FAFA211DC5FC67926144C23), compiling. 
+[2024.10.22-13.58.54:334][841]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 57C8FF087FA7E2ECD7BB95FC77523F443A8209D5), compiling. 
+[2024.10.22-13.58.54:337][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.54:337][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.54:337][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.54:372][843]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.54:372][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.54:372][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.58:173][107]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 78DF4F3ABFD6A7669B915E419B0833822F91056C), compiling. 
+[2024.10.22-13.58.58:178][107]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 1BF8DE6883FA6D379C364C43FFA5587D32328C6D), compiling. 
+[2024.10.22-13.58.58:182][107]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.58.58:182][107]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.58:182][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.58.58:215][109]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.58.58:215][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.58.58:215][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.36:325][733]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 63F4D4755B54E322F391F4DD073D27473B077B39), compiling. 
+[2024.10.22-13.59.36:329][733]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: FAEC11F05B8E40F8EB31BD6B63D10AEE176BDFA4), compiling. 
+[2024.10.22-13.59.36:333][733]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.59.36:333][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.36:333][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.36:367][735]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.59.36:367][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.36:367][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.40:006][965]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 32FDC6B6577CD6CFCE18E5F9D44C702723815C61), compiling. 
+[2024.10.22-13.59.40:014][965]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.59.40:014][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.40:014][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.40:047][967]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.59.40:047][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.40:047][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.41:236][ 38]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 59E716615255CC7305E223B2D2F8454DDD4F675F), compiling. 
+[2024.10.22-13.59.41:245][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.59.41:245][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.41:245][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.41:264][ 39]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.59.41:264][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.59.41:264][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.59.41:264][ 39]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.59.42:160][ 80]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.59.42:160][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.42:160][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.44:975][259]LogMaterialEditor: Saving and Compiling material M_Turbo
+[2024.10.22-13.59.45:289][259]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 7614F56CCEC0F187DCAE2ECE7158EDE190B36C30), compiling. 
+[2024.10.22-13.59.45:354][259]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 41D24BDFF9F45A08D6AA8CB46E13549A9837ED10), compiling. 
+[2024.10.22-13.59.45:426][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2024.10.22-13.59.45:438][259]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.59.45:948][259]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.59.45:948][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.10.22-13.59.45:948][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.10.22-13.59.45:948][259]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.59.46:005][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.22-13.59.46:252][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-13.59.46:257][259]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_Turbo8B804DBB4284503970F825B4766331E8.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-13.59.46:284][259]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-13.59.46:284][259]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-13.59.58:233][132]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 6953F3BFA3E89335BACA8F4D5781516AECD06F9B), compiling. 
+[2024.10.22-13.59.58:239][132]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.59.58:239][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.58:239][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.59.58:290][134]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.59.58:290][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.59.58:290][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.02:060][369]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 18F97B651FAA968C8587384F51C1713C4D9E8B4D), compiling. 
+[2024.10.22-14.00.02:067][369]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.02:067][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.02:067][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.02:108][371]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.02:108][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.02:108][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.03:773][468]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: ACEBE35411DCD024F33D4F87DD8AAA39FE0EC0A3), compiling. 
+[2024.10.22-14.00.03:779][468]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.03:779][468]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.03:779][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.03:813][470]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.03:813][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.03:813][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.05:319][563]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 5AE81F540E4ABB6FC7FE383933642DCAFE7DE9C7), compiling. 
+[2024.10.22-14.00.05:325][563]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.05:325][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.05:325][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.05:342][564]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.05:342][564]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-14.00.05:342][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-14.00.05:342][564]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.06:156][606]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.06:156][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.06:156][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.11:961][981]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 63897CF3DFC49561F51D617A22A7CDA3FBFF6FFB), compiling. 
+[2024.10.22-14.00.11:965][981]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 794DC6AC38E6196907B9FF5C228B5BDBB8C418AF), compiling. 
+[2024.10.22-14.00.11:968][981]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.11:968][981]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.11:968][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.12:002][983]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.12:002][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.12:002][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.15:756][231]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 4670550A64DE7ADB71F918E0DAEE775EFF9318A7), compiling. 
+[2024.10.22-14.00.15:761][231]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: DD88359916CBCCC68D2542C48CB061BF593CA6C6), compiling. 
+[2024.10.22-14.00.15:764][231]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.15:764][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.15:764][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.15:801][233]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.15:801][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.15:801][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.17:568][349]LogMaterialEditor: Saving and Compiling material M_Turbo
+[2024.10.22-14.00.17:866][349]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 3BE004C853AE6D281ED9D5D9C5C88BBD13B7687C), compiling. 
+[2024.10.22-14.00.17:926][349]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 8D05B1A2D7CCFE4AB43DFF7A3E418A02659E1A1B), compiling. 
+[2024.10.22-14.00.17:992][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.10.22-14.00.18:005][349]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.22-14.00.18:414][349]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-14.00.18:485][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.22-14.00.18:718][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-14.00.18:724][349]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_Turbo4EA19B174853C6AB50A50385F15682EF.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-14.00.18:745][349]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-14.00.18:745][349]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-14.00.42:634][359]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 81897CEBA74730FEA5A37F0F4166895AED3F1865), compiling. 
+[2024.10.22-14.00.42:639][359]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 9A4CA089924D75C29097D38ED01F804725598748), compiling. 
+[2024.10.22-14.00.42:642][359]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-14.00.42:642][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.42:642][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.42:677][361]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-14.00.42:677][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-14.00.42:677][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-14.00.43:995][448]LogMaterialEditor: Saving and Compiling material M_Turbo
+[2024.10.22-14.00.44:296][448]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: AF92EE301EB8C75F6AFA61CDB00B4E4463AEAEC4), compiling. 
+[2024.10.22-14.00.44:355][448]LogMaterial: Display: Missing cached shadermap for M_Turbo in PCD3D_SM5, Default, SM5 (DDC key hash: 8884B8F99ECE9763617F32FCECD973340DA63C92), compiling. 
+[2024.10.22-14.00.44:418][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.10.22-14.00.44:536][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-14.00.44:536][448]LogShaderCompilers: Display: Total job queries 303, among them cache hits 196 (64.69%)
+[2024.10.22-14.00.44:536][448]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 43 distinct outputs (51.81%)
+[2024.10.22-14.00.44:536][448]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2024.10.22-14.00.44:536][448]LogShaderCompilers: Display: ================================================
+[2024.10.22-14.00.44:585][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.22-14.00.44:641][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/M_Turbo" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset" SILENT=true
+[2024.10.22-14.00.44:646][448]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/M_Turbo7D5EC2DC45D9064957DC318DF00FCCC2.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/M_Turbo.uasset'
+[2024.10.22-14.00.44:667][448]AssetCheck: New page: Asset Save: M_Turbo
+[2024.10.22-14.00.44:667][448]LogContentValidation: Display: Validating Material /Game/Assignment/M_Turbo.M_Turbo
+[2024.10.22-14.00.51:666][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-14.00.51:674][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-14.00.51:674][ 66]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 6:00:51 PM)
+[2024.10.22-14.00.51:676][ 66]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.00.52:230][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.553915s)
+[2024.10.22-14.00.52:296][ 66]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-14.00.52:296][ 66]LogPlayLevel: PIE: World Init took: (0.066093s)
+[2024.10.22-14.00.52:296][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.620296s)
+[2024.10.22-14.00.52:348][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.10.22-14.00.52:350][ 66]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-14.00.52:350][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-14.00.52:350][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-14.00.52:351][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-14.00.52:351][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-14.00.52:351][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-14.00.52:351][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-14.00.52:388][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-14.00.52:388][ 66]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-14.00.52:393][ 66]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-14.00.52:394][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-14.00.52:396][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-14.00.52:396][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-14.00.52:396][ 66]LogInit: FAudioDevice initialized.
+[2024.10.22-14.00.52:396][ 66]LogAudio: Display: Audio Device (ID: 65) registered with world 'DesertRallyRace'.
+[2024.10.22-14.00.52:410][ 66]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-14.00.52:786][ 66]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-16.00.52
+[2024.10.22-14.00.52:787][ 66]LogWorld: Bringing up level for play took: 0.050329
+[2024.10.22-14.00.52:788][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2024.10.22-14.00.52:822][ 66]PIE: Server logged in
+[2024.10.22-14.00.52:822][ 66]PIE: Play in editor total start time 1.151 seconds.
+[2024.10.22-14.01.39:702][943]LogPhysics: Warning: BoneIndex 1 out of range of SpaceBases (Size 0) on PhysicsAsset 'SK_Buggy_Vehicle_PhysicsAsset' in SkeletalMesh 'SK_Buggy_Vehicle' for bone 'F_L_wheelJNT'
+[2024.10.22-14.01.39:702][943]LogPhysics: Warning: BoneIndex 2 out of range of SpaceBases (Size 0) on PhysicsAsset 'SK_Buggy_Vehicle_PhysicsAsset' in SkeletalMesh 'SK_Buggy_Vehicle' for bone 'F_R_wheelJNT'
+[2024.10.22-14.01.39:702][943]LogPhysics: Warning: BoneIndex 3 out of range of SpaceBases (Size 0) on PhysicsAsset 'SK_Buggy_Vehicle_PhysicsAsset' in SkeletalMesh 'SK_Buggy_Vehicle' for bone 'B_R_wheelJNT'
+[2024.10.22-14.01.39:702][943]LogPhysics: Warning: BoneIndex 4 out of range of SpaceBases (Size 0) on PhysicsAsset 'SK_Buggy_Vehicle_PhysicsAsset' in SkeletalMesh 'SK_Buggy_Vehicle' for bone 'B_L_wheelJNT'
+[2024.10.22-14.02.26:899][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.02.26:899][796]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.02.26:901][796]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-14.02.26:908][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.02.26:937][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-14.02.26:951][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.02.26:995][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.02.27:004][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.02.27:005][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.02.27:020][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.10.22-14.02.27:086][797]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.10.22-14.02.27:133][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.10.22-14.02.52:272][301]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2024.10.22-14.02.53:398][405]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape3)
+[2024.10.22-14.04.19:851][956]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-14.04.19:857][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-14.04.19:857][956]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 6:04:19 PM)
+[2024.10.22-14.04.19:861][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.04.20:401][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.539122s)
+[2024.10.22-14.04.20:402][956]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-14.04.20:402][956]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2024.10.22-14.04.20:402][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.540940s)
+[2024.10.22-14.04.20:475][956]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2024.10.22-14.04.20:482][956]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-14.04.20:482][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-14.04.20:482][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-14.04.20:483][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-14.04.20:483][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-14.04.20:483][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-14.04.20:483][956]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-14.04.20:529][956]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-14.04.20:529][956]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-14.04.20:534][956]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-14.04.20:535][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-14.04.20:535][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-14.04.20:535][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-14.04.20:535][956]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-14.04.20:535][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-14.04.20:535][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-14.04.20:537][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-14.04.20:537][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-14.04.20:537][956]LogInit: FAudioDevice initialized.
+[2024.10.22-14.04.20:537][956]LogAudio: Display: Audio Device (ID: 66) registered with world 'DesertRallyRace'.
+[2024.10.22-14.04.20:548][956]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-14.04.20:912][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-16.04.20
+[2024.10.22-14.04.20:913][956]LogWorld: Bringing up level for play took: 0.046308
+[2024.10.22-14.04.20:913][956]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2024.10.22-14.04.20:921][956]PIE: Server logged in
+[2024.10.22-14.04.20:922][956]PIE: Play in editor total start time 1.066 seconds.
+[2024.10.22-14.06.03:771][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.06.03:771][525]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.06.03:772][525]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-14.06.03:779][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.06.03:797][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-14.06.03:817][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.06.03:864][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-14.06.03:864][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.06.03:865][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.06.03:868][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.06.03:890][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.10.22-14.06.04:183][526]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.10.22-14.06.04:230][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.10.22-14.06.05:806][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VG_Bridge_01B_3)
+[2024.10.22-14.06.07:857][840]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-14.06.07:862][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-14.06.07:863][840]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 6:06:07 PM)
+[2024.10.22-14.06.07:867][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.06.08:898][840]LogPlayLevel: PIE: StaticDuplicateObject took: (1.031824s)
+[2024.10.22-14.06.08:899][840]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-14.06.08:900][840]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2024.10.22-14.06.08:900][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (1.033431s)
+[2024.10.22-14.06.08:944][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.22-14.06.08:945][840]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-14.06.08:945][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-14.06.08:945][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-14.06.08:946][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-14.06.08:946][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-14.06.08:946][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-14.06.08:946][840]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-14.06.09:088][840]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-14.06.09:088][840]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-14.06.09:092][840]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-14.06.09:093][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-14.06.09:093][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-14.06.09:093][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-14.06.09:093][840]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-14.06.09:093][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-14.06.09:093][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-14.06.09:094][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-14.06.09:095][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-14.06.09:095][840]LogInit: FAudioDevice initialized.
+[2024.10.22-14.06.09:095][840]LogAudio: Display: Audio Device (ID: 67) registered with world 'DesertRallyRace'.
+[2024.10.22-14.06.09:104][840]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-14.06.09:470][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-16.06.09
+[2024.10.22-14.06.09:471][840]LogWorld: Bringing up level for play took: 0.042936
+[2024.10.22-14.06.09:471][840]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2024.10.22-14.06.09:477][840]PIE: Server logged in
+[2024.10.22-14.06.09:478][840]PIE: Play in editor total start time 1.617 seconds.
+[2024.10.22-14.07.59:320][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.07.59:320][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-14.07.59:322][805]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-14.07.59:328][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.07.59:345][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-14.07.59:367][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-14.07.59:419][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-14.07.59:424][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.07.59:425][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-14.07.59:447][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2024.10.22-14.07.59:517][806]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.10.22-14.07.59:564][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.10.22-14.08.55:369][856]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-14.08.56:676][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2024.10.22-14.08.57:856][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-14.08.57:879][912]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstanceDE5FFB1848A2F70FD8B0F692EB2AF95C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-14.08.57:902][912]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-14.08.57:902][912]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-14.11.00:177][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.10.22-14.11.02:276][439]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto7A3FD6AFE469828295823369874DA5C96.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto7.umap'
+[2024.10.22-14.11.02:280][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 2.166
+[2024.10.22-14.11.02:280][439]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.166
+[2024.10.22-14.16.02:426][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.22-14.16.02:474][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-14.16.02:516][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.22-14.16.04:361][ 16]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRaceDC4261DE4081120E214E6EA0C411CE0D.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-14.16.04:382][ 16]LogFileHelpers: Saving map 'DesertRallyRace' took 1.909
+[2024.10.22-14.16.04:382][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/TurboTexture" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/TurboTexture.uasset" SILENT=true
+[2024.10.22-14.16.04:456][ 16]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/TurboTexture3E9C82AD475CD3D2BAFD17AB3A336265.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/TurboTexture.uasset'
+[2024.10.22-14.16.04:499][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-14.16.04:499][ 16]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-14.16.04:499][ 16]LogContentValidation: Display: Validating Texture2D /Game/Assignment/TurboTexture.TurboTexture
