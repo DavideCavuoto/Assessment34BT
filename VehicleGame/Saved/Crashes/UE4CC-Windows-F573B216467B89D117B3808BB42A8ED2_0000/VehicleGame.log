@@ -1,0 +1,1673 @@
+﻿Log file open, 10/21/24 22:46:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VehicleGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266378
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[r.setres:1280x1024]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:766][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.21-20.46.46:777][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.10.21-20.46.46:778][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.21-20.46.46:778][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.10.21-20.46.46:778][  0]LogHAL: Display: Platform has ~ 16 GB [17135468544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.10.21-20.46.46:778][  0]LogInit: Going up to parent DeviceProfile []
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.10.21-20.46.46:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Scalability.ini]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Engine.ini]
+[2024.10.21-20.46.46:779][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Config/Windows/Editor.ini]
+[2024.10.21-20.46.46:779][  0]LogInit: Computer: DESKTOP-V3RD9DI
+[2024.10.21-20.46.46:779][  0]LogInit: User: Davide
+[2024.10.21-20.46.46:779][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.10.21-20.46.46:779][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.10.21-20.46.46:779][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2024.10.21-20.46.46:780][  0]LogMemory: Platform Memory Stats for Windows
+[2024.10.21-20.46.46:780][  0]LogMemory: Process Physical Memory: 146.17 MB used, 147.52 MB peak
+[2024.10.21-20.46.46:780][  0]LogMemory: Process Virtual Memory: 115.71 MB used, 115.71 MB peak
+[2024.10.21-20.46.46:780][  0]LogMemory: Physical Memory: 7400.31 MB used,  8941.35 MB free, 16341.66 MB total
+[2024.10.21-20.46.46:780][  0]LogMemory: Virtual Memory: 134202024.00 MB used,  15706.94 MB free, 134217728.00 MB total
+[2024.10.21-20.46.46:785][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.10.21-20.46.46:827][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.10.21-20.46.46:829][  0]LogInit: Using OS detected language (en-US).
+[2024.10.21-20.46.46:829][  0]LogInit: Using OS detected locale (en-US).
+[2024.10.21-20.46.46:832][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.10.21-20.46.47:000][  0]LogInit: Setting process to per monitor DPI aware
+[2024.10.21-20.46.47:014][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.21-20.46.47:031][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.10.21-20.46.47:031][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.10.21-20.46.47:272][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.10.21-20.46.47:275][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2024.10.21-20.46.47:275][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.10.21-20.46.47:275][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.10.21-20.46.47:275][  0]LogD3D11RHI: D3D11 adapters:
+[2024.10.21-20.46.47:395][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2024.10.21-20.46.47:395][  0]LogD3D11RHI:       2965/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.10.21-20.46.47:397][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.10.21-20.46.47:397][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.10.21-20.46.47:492][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2024.10.21-20.46.47:492][  0]LogD3D11RHI:       2965/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2024.10.21-20.46.47:492][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 3GB
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     DeviceId    : 1c02
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     SubSysId    : 243819da
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     DedicatedVideoMemory : 3109027840 bytes
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     SharedSystemMemory : 8567734272 bytes
+[2024.10.21-20.46.47:493][  0]LogD3D11RHI:     AdapterLuid : 0 49316
+[2024.10.21-20.46.47:499][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.10.21-20.46.47:499][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2024.10.21-20.46.47:499][  0]LogWindows: EnumDisplayDevices:
+[2024.10.21-20.46.47:500][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2024.10.21-20.46.47:500][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2024.10.21-20.46.47:500][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2024.10.21-20.46.47:500][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2024.10.21-20.46.47:500][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:501][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:502][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2024.10.21-20.46.47:502][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:   Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:      Driver Date: 8-14-2024
+[2024.10.21-20.46.47:502][  0]LogRHI: Texture pool is 2075 MB (70% of 2965 MB)
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 3GB
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     DeviceId    : 1c02
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     SubSysId    : 243819da
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     DedicatedVideoMemory : 3109027840 bytes
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     SharedSystemMemory : 8567734272 bytes
+[2024.10.21-20.46.47:502][  0]LogD3D11RHI:     AdapterLuid : 0 49316
+[2024.10.21-20.46.47:587][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.10.21-20.46.47:588][  0]LogD3D11RHI: Async texture creation enabled
+[2024.10.21-20.46.47:588][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.10.21-20.46.47:591][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2024.10.21-20.46.47:616][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.10.21-20.46.47:644][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.10.21-20.46.47:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.10.21-20.46.47:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.10.21-20.46.47:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.10.21-20.46.47:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.10.21-20.46.47:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.10.21-20.46.47:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.10.21-20.46.47:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.10.21-20.46.47:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.10.21-20.46.47:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.10.21-20.46.48:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.10.21-20.46.48:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.10.21-20.46.48:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.10.21-20.46.48:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.10.21-20.46.48:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.10.21-20.46.48:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.10.21-20.46.48:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.10.21-20.46.48:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.10.21-20.46.48:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.10.21-20.46.48:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.10.21-20.46.48:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.10.21-20.46.48:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.10.21-20.46.48:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.10.21-20.46.48:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.10.21-20.46.48:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.10.21-20.46.48:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.10.21-20.46.48:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.10.21-20.46.48:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.10.21-20.46.48:108][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.10.21-20.46.48:115][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.10.21-20.46.48:141][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.10.21-20.46.48:169][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.10.21-20.46.48:169][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Assessment34BT/Assessment34BT/VehicleGame/Intermediate/Shaders/WorkingDirectory/28668/).
+[2024.10.21-20.46.48:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Davide/AppData/Local/Temp/UnrealShaderWorkingDir/E1578789452DFFD73D08AEAC6D3D14E2/'.
+[2024.10.21-20.46.48:170][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.10.21-20.46.48:170][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.10.21-20.46.48:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.10.21-20.46.48:826][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.10.21-20.46.48:882][  0]LogDerivedDataCache: Loaded boot cache 0.06s 103MB C:/Users/Davide/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.10.21-20.46.48:882][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Davide/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.10.21-20.46.48:882][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Assessment34BT/Assessment34BT/VehicleGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.10.21-20.46.48:882][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.10.21-20.46.48:920][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../../../Assessment34BT/Assessment34BT/VehicleGame/DerivedDataCache/Compressed.ddp.
+[2024.10.21-20.46.48:934][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.10.21-20.46.48:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.10.21-20.46.48:934][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.10.21-20.46.48:942][  0]LogDerivedDataCache: Speed tests for C:/Users/Davide/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.10.21-20.46.48:942][  0]LogDerivedDataCache: Display: Performance to C:/Users/Davide/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1036.33MBs, RandomWriteSpeed=149.91MBs. Assigned SpeedClass 'Local'
+[2024.10.21-20.46.48:942][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Davide/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.10.21-20.46.48:942][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.10.21-20.46.48:942][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.10.21-20.46.48:991][  0]LogSlate: Using FreeType 2.10.0
+[2024.10.21-20.46.48:991][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.10.21-20.46.49:014][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2024.10.21-20.46.49:222][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.21-20.46.49:222][  0]LogInit: Active device profile: [000002C5DE854900][000002C5E39B6E40 49] Windows
+[2024.10.21-20.46.49:222][  0]LogInit: Profiles: [000002C5DE854900][000002C5E39B6E40 49] Windows, [000002C5DE7B7800][000002C5E3A16FC0 49] WindowsNoEditor, [000002C5DE857500][000002C5E3A1F140 49] WindowsServer, [000002C5DE7B4E00][000002C5E3A2F2C0 49] WindowsClient, [000002C5DE857800][000002C5E3A33440 49] IOS, [000002C5DE7B6800][000002C5E3AE15C0 49] iPadAir, [000002C5DE856000][000002C5E3AE9740 49] iPadAir2, [000002C5ED82CA00][000002C5EA579A00 49] IPadPro, [000002C5ED82CB00][000002C5E3B19A40 49] iPadAir3, [000002C5DE7B5900][000002C5EA587BC0 49] iPadAir4, [000002C5ED82F400][000002C5EA58A1C0 49] iPadMini2, [000002C5DE7B6A00][000002C5EA5DE340 49] iPadMini3, [000002C5ED82D700][000002C5EA5E24C0 49] iPadMini4, [000002C5DE855100][000002C5EA5E6640 49] iPadMini5, [000002C5ED868300][000002C5EA5EE900 49] iPhone6, [000002C5ED868400][000002C5EA5EA940 49] iPodTouch6, [000002C5ED807F00][000002C5E3076B80 49] iPhone7, [000002C5ED807E00][000002C5E39BABC0 49] iPodTouch7, [000002C5DE7B6000][000002C5E307AD00 49] iPhone5S, [000002C5ED805A00][000002C5EA5F6E80 49] iPhone6Plus, [000002C5ED868200][000002C5EA5FB000 49] iPhone6S, [000002C5ED804600][000002C5EADFD180 49] iPhone6SPlus, [000002C5ED86A900][000002C5EAE01300 49] iPhone7Plus, [000002C5ED807100][000002C5EAE05480 49] iPhoneSE, [000002C5ED86A200][000002C5EAE09600 49] iPhone8, [000002C5ED807B00][000002C5EAE11780 49] iPhone8Plus, [000002C5ED868A00][000002C5EA9D9900 49] iPhoneX, [000002C5ED805400][000002C5EA9FDA80 49] iPhoneXS, [000002C5ED86BD00][000002C5EAA0DC00 49] iPhoneXSMax, [000002C5ED804500][000002C5E3428200 49] iPhoneXR, [000002C5ED869300][000002C5E342C380 49] iPhone11, [000002C5ED806700][000002C5EA8FA500 49] iPhone11Pro, [000002C5ED869000][000002C5EA8FE680 49] iPhone11ProMax, [000002C5ED806A00][000002C5EA902800 49] iPhoneSE2, [000002C5ED869400][000002C5EA906980 49] iPhone12Mini, [000002C5ED806400][000002C5EA90AB00 49] iPhone12, [000002C5ED868D00][000002C5EA5F2C40 49] iPhone12Pro, [000002C5ED806B00][000002C5EA922D80 49] iPhone12ProMax, [000002C5ED86B000][000002C5EA5CAEC0 49] iPadPro105, [000002C5ED804700][000002C5EA5D3040 49] iPadPro129, [000002C5ED86A800][000002C5EA5DB1C0 49] iPadPro97, [000002C5ED806600][000002C5E46E3340 49] iPadPro2_129, [000002C5ED86BC00][000002C5E46E74C0 49] iPad5, [000002C5ED806200][000002C5EAD61640 49] iPad6, [000002C5ED868F00][000002C5EAD657C0 49] iPad7, [000002C5ED807C00][000002C5E46DF940 49] iPad8, [000002C5ED86B400][000002C5EA5D7AC0 49] iPadPro11, [000002C5ED806F00][000002C5EAD740C0 49] iPadPro2_11, [000002C5ED86B900][000002C5E3050240 49] iPadPro3_129, [000002C5ED805700][000002C5EAE143C0 49] iPadPro4_129, [000002C5ED869100][000002C5E3AE4540 49] AppleTV, [000002C5ED806100][000002C5E3AEC6C0 49] AppleTV4K, [000002C5ED869F00][000002C5E3054840 49] TVOS, [000002C5ED807400][000002C5E30589C0 49] Mac, [000002C5ED86B800][000002C5E305CB40 49] MacClient, [000002C5ED805E00][000002C5E3060CC0 49] MacNoEditor, [000002C5ED86BF00][000002C5EA5CEE00 49] MacServer, [000002C5ED805200][000002C5E3064F40 49] Linux, [000002C5ED868C00][000002C5E3069080 49] LinuxAArch64, [000002C5ED805F00][000002C5E306D1C0 49] LinuxNoEditor, [000002C5ED869B00][000002C5E3469340 49] LinuxAArch64NoEditor, [000002C5ED807A00][000002C5E346D4C0 49] LinuxClient, [000002C5ED86B500][000002C5E3471640 49] LinuxAArch64Client, [000002C5ED805000][000002C5E34757C0 49] LinuxServer, [000002C5ED86A500][000002C5E3479940 49] LinuxAArch64Server, [000002C5ED804A00][000002C5E347DAC0 49] Android, [000002C5ED86B300][000002C5E34800C0 49] Android_Low, [000002C5ED807500][000002C5E3484240 49] Android_Mid, [000002C5ED868600][000002C5E34883C0 49] Android_High, [000002C5ED804200][000002C5E3AF0540 49] Android_Default, [000002C5ED86B100][000002C5E3AF46C0 49] Android_Adreno4xx, [000002C5ED805100][000002C5E3AF8840 49] Android_Adreno5xx_Low, [000002C5ED82F600][000002C5E3AFC9C0 49] Android_Adreno5xx, [000002C5DE7B5500][000002C5E3B00B40 49] Android_Adreno6xx, [000002C5ED82CF00][000002C5E3B04CC0 49] Android_Adreno6xx_Vulkan, [000002C5DE7B7C00][000002C5E3B08E40 49] Android_Mali_T6xx, [000002C5ED82D100][000002C5E3070F80 49] Android_Mali_T7xx, [000002C5DE7B5600][000002C5E3B0D0C0 49] Android_Mali_T8xx, [000002C5ED82DE00][000002C5E3B11200 49] Android_Mali_G71, [000002C5DE7B4500][000002C5E3B15340 49] Android_Mali_G72, [000002C5ED82C800][000002C5EA92B4C0 49] Android_Mali_G72_Vulkan, [000002C5DE7B7A00][000002C5EA92F640 49] Android_Mali_G76, [000002C5ED82C100][000002C5EA9337C0 49] Android_Mali_G76_Vulkan, [000002C5DE7B5F00][000002C5EA937940 49] Android_Mali_G77, [000002C5ED82D000][000002C5EA93BAC0 49] Android_Mali_G77_Vulkan, [000002C5DE7B4A00][000002C5EA93E0C0 49] Android_Mali_G78, [000002C5ED82EC00][000002C5EA942240 49] Android_Mali_G78_Vulkan, [000002C5DE7B7600][000002C5EA9463C0 49] Android_Mali_G710, [000002C5ED82EB00][000002C5EA94A540 49] Android_Mali_G710_Vulkan, [000002C5DE7B7F00][000002C5EA94E6C0 49] Android_Vulkan_SM5, [000002C5ED82FB00][000002C5EA952840 49] Android_PowerVR_G6xxx, [000002C5DE7B4100][000002C5EA9569C0 49] Android_PowerVR_GT7xxx, [000002C5ED82E300][000002C5EA95AB40 49] Android_PowerVR_GE8xxx, [000002C5DE7B4C00][000002C5EA95ECC0 49] Android_PowerVR_GM9xxx, [000002C5ED82E700][000002C5EA962E40 49] Android_PowerVR_GM9xxx_Vulkan, [000002C5DE7B6700][000002C5EA966FC0 49] Android_TegraK1, [000002C5ED82C600][000002C5EAD8F140 49] Android_Unknown_Vulkan, [000002C5DE7B6D00][000002C5EA927280 49] Lumin, [000002C5ED82C500][000002C5EAD933C0 49] Lumin_Desktop, [000002C5DE7B6500][000002C5EAD97500 49] HoloLens, 
+[2024.10.21-20.46.49:330][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.10.21-20.46.49:330][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.10.21-20.46.49:330][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.10.21-20.46.49:330][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.10.21-20.46.49:330][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.10.21-20.46.49:344][  0]LogNetVersion: VehicleGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2789370143)
+[2024.10.21-20.46.49:711][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.10.21-20.46.49:762][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.10.21-20.46.49:767][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.10.21-20.46.49:767][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.10.21-20.46.49:767][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.10.21-20.46.50:015][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B8D0DFFD4F32F11C6DA1E7B066BF271C | Instance: CB36730742E81F7C7ADCBEA034949C48 (DESKTOP-V3RD9DI-28668).
+[2024.10.21-20.46.50:116][  0]LogPython: Using Python 3.7.7
+[2024.10.21-20.46.50:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.10.21-20.46.50:627][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.10.21-20.46.50:796][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.50:796][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.50:799][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.50:801][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.50:810][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.50:815][  0]LogUProjectInfo: Found projects:
+[2024.10.21-20.46.51:005][  0]LogOpenImageDenoise: OIDN starting up
+[2024.10.21-20.46.51:042][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.10.21-20.46.51:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.21-20.46.51:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.21-20.46.51:171][  0]LogCollectionManager: Loaded 0 collections in 0.001372 seconds
+[2024.10.21-20.46.51:193][  0]LogFileCache: Scanning file cache for directory 'G:/Assessment34BT/Assessment34BT/VehicleGame/Saved/Collections/' took 0.00s
+[2024.10.21-20.46.51:193][  0]LogFileCache: Scanning file cache for directory 'G:/Assessment34BT/Assessment34BT/VehicleGame/Content/Developers/Davide/Collections/' took 0.00s
+[2024.10.21-20.46.51:193][  0]LogFileCache: Scanning file cache for directory 'G:/Assessment34BT/Assessment34BT/VehicleGame/Content/Collections/' took 0.00s
+[2024.10.21-20.46.51:193][  0]LogOcInput: OculusInput pre-init called
+[2024.10.21-20.46.51:423][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::Handle is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2024.10.21-20.46.51:423][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::VendorID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2024.10.21-20.46.51:423][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::ProductID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2024.10.21-20.46.51:424][  0]LogClass: Display: 3 Uninitialized script struct members found including 0 object properties
+[2024.10.21-20.46.51:425][  0]LogEngine: Initializing Engine...
+[2024.10.21-20.46.51:527][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2024.10.21-20.46.51:527][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2024.10.21-20.46.51:527][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2024.10.21-20.46.51:528][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2024.10.21-20.46.51:529][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2024.10.21-20.46.51:529][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.10.21-20.46.51:529][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.10.21-20.46.51:632][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.10.21-20.46.51:639][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.10.21-20.46.51:649][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.10.21-20.46.51:652][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-20.46.51:653][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-20.46.51:653][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-20.46.51:654][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.21-20.46.51:676][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.21-20.46.51:676][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.10.21-20.46.51:693][  0]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.21-20.46.51:697][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-20.46.51:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-20.46.51:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-20.46.51:701][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.21-20.46.51:701][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.21-20.46.51:701][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.21-20.46.51:702][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.21-20.46.51:702][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.21-20.46.51:702][  0]LogInit: FAudioDevice initialized.
+[2024.10.21-20.46.51:702][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.10.21-20.46.51:702][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.10.21-20.46.51:852][  0]LogDerivedDataCache: Saved boot cache 0.15s 103MB C:/Users/Davide/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.10.21-20.46.51:853][  0]LogInit: Texture streaming: Enabled
+[2024.10.21-20.46.51:865][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.10.21-20.46.51:869][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.10.21-20.46.51:869][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.10.21-20.46.51:871][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.10.21-20.46.51:900][  0]LogInit: Transaction tracking system initialized
+[2024.10.21-20.46.51:923][  0]BlueprintLog: New page: Editor Load
+[2024.10.21-20.46.51:983][  0]LocalizationService: Localization service is disabled
+[2024.10.21-20.46.52:007][  0]TimingProfiler: Initialize
+[2024.10.21-20.46.52:008][  0]TimingProfiler: OnSessionChanged
+[2024.10.21-20.46.52:008][  0]LoadingProfiler: Initialize
+[2024.10.21-20.46.52:008][  0]LoadingProfiler: OnSessionChanged
+[2024.10.21-20.46.52:008][  0]NetworkingProfiler: Initialize
+[2024.10.21-20.46.52:008][  0]NetworkingProfiler: OnSessionChanged
+[2024.10.21-20.46.52:008][  0]MemoryProfiler: Initialize
+[2024.10.21-20.46.52:008][  0]MemoryProfiler: OnSessionChanged
+[2024.10.21-20.46.52:056][  0]LogConsoleResponse: Display:   GraphicsQuality 1
+[2024.10.21-20.46.52:155][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.10.21-20.46.52:155][  0]LogCook: Display: Mobile HDR setting 1
+[2024.10.21-20.46.52:342][  0]LogFileCache: Scanning file cache for directory 'G:/Assessment34BT/Assessment34BT/VehicleGame/Content/' took 0.01s
+[2024.10.21-20.46.52:525][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.10.21-20.46.52:527][  0]SourceControl: Source control is disabled
+[2024.10.21-20.46.52:527][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.580
+[2024.10.21-20.46.52:528][  0]Cmd: MAP LOAD FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.10.21-20.46.52:528][  0]LightingResults: New page: Lighting Build
+[2024.10.21-20.46.52:529][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-20.46.52:529][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-20.46.52:529][  0]MapCheck: New page: Map Check
+[2024.10.21-20.46.52:529][  0]LightingResults: New page: Lighting Build
+[2024.10.21-20.46.52:534][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-20.46.52:536][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.21-20.46.53:541][  0]LogTexture: Display: Building textures: DeprecatedTextureD0C41DEC4E2AF9C6DB738482DD969E00 (BGRA8, 128X128)
+[2024.10.21-20.46.53:546][  0]LogTexture: Display: Building textures: DeprecatedTexture8E236FE34C84DD8EF41E72A7CFFEC382 (BGRA8, 128X128)
+[2024.10.21-20.46.53:553][  0]LogTexture: Display: Building textures: DeprecatedTexture8999C878433ACC3B02D420B572764D03 (BGRA8, 128X128)
+[2024.10.21-20.46.53:559][  0]LogTexture: Display: Building textures: DeprecatedTextureFE55B3314AB259B3DD9A239C0D2CFC6F (BGRA8, 128X128)
+[2024.10.21-20.46.53:564][  0]LogTexture: Display: Building textures: DeprecatedTexture09E71EB040613186B79B85BAF017D2DC (BGRA8, 128X128)
+[2024.10.21-20.46.53:568][  0]LogTexture: Display: Building textures: DeprecatedTexture1AF81BB5494C986574CFCC9645271611 (BGRA8, 128X128)
+[2024.10.21-20.46.53:573][  0]LogTexture: Display: Building textures: DeprecatedTexture940F2C3F4E0454111DA8B4AFA56C3935 (BGRA8, 128X128)
+[2024.10.21-20.46.53:578][  0]LogTexture: Display: Building textures: DeprecatedTextureE8ABCBEB4F98F6B6839F639627FCE434 (BGRA8, 128X128)
+[2024.10.21-20.46.53:583][  0]LogTexture: Display: Building textures: DeprecatedTextureBE58BC6C424ECE21E5FC85921103D667 (BGRA8, 128X128)
+[2024.10.21-20.46.53:588][  0]LogTexture: Display: Building textures: DeprecatedTexture6BCE45124154EB604F96A1AE18321C41 (BGRA8, 128X128)
+[2024.10.21-20.46.53:594][  0]LogTexture: Display: Building textures: DeprecatedTexture2B48E63849174C828AC0589E804F1E2F (BGRA8, 128X128)
+[2024.10.21-20.46.53:599][  0]LogTexture: Display: Building textures: DeprecatedTexture0D729A55465785F5D771E1BBEEDD31AB (BGRA8, 128X128)
+[2024.10.21-20.46.53:605][  0]LogTexture: Display: Building textures: DeprecatedTextureF3184ECD4EAC33021F93A0BB1604C7C9 (BGRA8, 128X128)
+[2024.10.21-20.46.53:609][  0]LogTexture: Display: Building textures: DeprecatedTexture2DC467E845E8EBAE2A5657A9DFF3C602 (BGRA8, 128X128)
+[2024.10.21-20.46.53:614][  0]LogTexture: Display: Building textures: DeprecatedTexture186B015E4BA7231D1D4C3B8D47A8E815 (BGRA8, 128X128)
+[2024.10.21-20.46.53:619][  0]LogTexture: Display: Building textures: DeprecatedTextureE4B2581D4D7373D8C368CB8082388C2D (BGRA8, 128X128)
+[2024.10.21-20.46.53:624][  0]LogTexture: Display: Building textures: DeprecatedTexture3193104D4215D311DEE655BADCC322DD (BGRA8, 128X128)
+[2024.10.21-20.46.53:630][  0]LogTexture: Display: Building textures: DeprecatedTexture1A716B624353CE9BB7DD42A1AEAAB5CD (BGRA8, 128X128)
+[2024.10.21-20.46.53:657][  0]LogSkeletalMesh: Display: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Vehicles\VH_Buggy\Mesh\SK_Buggy_Vehicle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.10.21-20.46.54:076][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DesertRallyRace'.
+[2024.10.21-20.46.54:077][  0]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.21-20.46.54:308][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/DesertRallyRace_Collision) is flushing async loading
+[2024.10.21-20.46.54:308][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2024.10.21-20.46.54:448][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.21-20.46.54:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.21-20.46.54:506][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.21-20.46.54:506][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.239ms to complete.
+[2024.10.21-20.46.54:506][  0]LogFileHelpers: Loading map 'DesertRallyRace' took 1.978
+[2024.10.21-20.46.54:509][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.561
+[2024.10.21-20.46.54:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-20.46.54:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-20.46.54:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-20.46.54:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-20.46.54:667][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3843 classes and 944 folders.
+[2024.10.21-20.46.54:669][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.21-20.46.54:670][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.21-20.46.54:670][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:670][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.21-20.46.54:670][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:670][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.10.21-20.46.54:671][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2024.10.21-20.46.54:671][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.10.21-20.46.54:671][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:671][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.10.21-20.46.54:671][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:671][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.10.21-20.46.54:671][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2024.10.21-20.46.54:672][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.10.21-20.46.54:672][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:672][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.10.21-20.46.54:672][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:672][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.10.21-20.46.54:672][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:673][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.21-20.46.54:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.21-20.46.54:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.10.21-20.46.54:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.10.21-20.46.54:674][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.10.21-20.46.54:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.10.21-20.46.54:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.10.21-20.46.54:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.10.21-20.46.54:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.10.21-20.46.54:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.10.21-20.46.54:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.10.21-20.46.54:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:676][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.10.21-20.46.54:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.10.21-20.46.54:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.10.21-20.46.54:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.10.21-20.46.54:677][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.21-20.46.54:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.21-20.46.54:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.10.21-20.46.54:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:678][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.10.21-20.46.54:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.10.21-20.46.54:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.10.21-20.46.54:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.10.21-20.46.54:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.10.21-20.46.54:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.21-20.46.54:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.10.21-20.46.54:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:680][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.21-20.46.54:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.21-20.46.54:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.10.21-20.46.54:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:681][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.21-20.46.54:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.21-20.46.54:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.10.21-20.46.54:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.10.21-20.46.54:682][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.10.21-20.46.54:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.10.21-20.46.54:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.10.21-20.46.54:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.21-20.46.54:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.10.21-20.46.54:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.10.21-20.46.54:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.10.21-20.46.54:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:684][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.21-20.46.54:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.21-20.46.54:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.10.21-20.46.54:684][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.10.21-20.46.54:685][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.21-20.46.54:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.21-20.46.54:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.10.21-20.46.54:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.21-20.46.54:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.10.21-20.46.54:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.21-20.46.54:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.10.21-20.46.54:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2024.10.21-20.46.54:687][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.21-20.46.54:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.21-20.46.54:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.10.21-20.46.54:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:688][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.10.21-20.46.54:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.10.21-20.46.54:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.10.21-20.46.54:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:689][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.21-20.46.54:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.21-20.46.54:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.10.21-20.46.54:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.10.21-20.46.54:690][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.21-20.46.54:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.21-20.46.54:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.10.21-20.46.54:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.10.21-20.46.54:690][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.10.21-20.46.54:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.21-20.46.54:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.10.21-20.46.54:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.21-20.46.54:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.10.21-20.46.54:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.10.21-20.46.54:758][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.21-20.46.54:759][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.10.21-20.46.55:015][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.10.21-20.46.55:015][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.21-20.46.55:016][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.10.21-20.46.55:145][  0]LogRenderer: Reallocating scene render targets to support 1616x544 Format 10 NumSamples 1 (Frame:1).
+[2024.10.21-20.46.55:208][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.21-20.46.55:262][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.21-20.46.55:262][  0]LogLoad: (Engine Initialization) Total time: 10.31 seconds
+[2024.10.21-20.46.55:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.10.21-20.46.55:271][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2024.10.21-20.46.55:304][  0]LogAssetRegistry: Asset discovery search completed in 6.2911 seconds
+[2024.10.21-20.46.55:310][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.10.21-20.46.55:325][  0]LogContentStreaming: Texture pool size now 400 MB
+[2024.10.21-20.47.31:956][280]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.21-20.47.31:971][280]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.21-20.47.31:971][280]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-06.55.30:024][292]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.22-06.55.30:800][292]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-06.55.30:800][292]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-07.36.31:705][124]LogSlate: Took 0.045726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.22-07.36.32:567][124]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.22-07.36.43:542][124]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.22-07.36.43:966][124]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.22-07.36.51:063][124]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.22-07.36.56:101][539]LogContentBrowser: Attempting asset rename: NewBlueprint -> GameInstance
+[2024.10.22-07.36.58:168][539]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.22-07.41.28:171][816]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assignment/GameInstance.GameInstance
+[2024.10.22-07.41.36:857][816]LogBlueprintEditor: Perf: 4.0 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.10.22-07.41.36:857][816]LogBlueprintEditor: Perf: 3.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2024.10.22-07.41.36:857][816]LogBlueprintEditor: Perf: 0.5 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2024.10.22-07.41.39:194][816]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0264 seconds. Added 126 classes and 0 folders.
+[2024.10.22-07.41.53:885][816]LogSlate: Took 0.065558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.22-07.42.40:869][164]LogSlate: Took 0.020161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.22-07.43.05:624][435]LogUObjectHash: Compacting FUObjectHashTables data took  15.14ms
+[2024.10.22-07.43.09:655][435]LogSlate: Window 'Save Content' being destroyed
+[2024.10.22-07.43.09:876][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/GameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/GameInstance.uasset" SILENT=true
+[2024.10.22-07.43.10:512][435]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/GameInstance4EF0BF7F4A7F0DBCE7FCEF84780AA595.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/GameInstance.uasset'
+[2024.10.22-07.43.10:754][435]AssetCheck: New page: Asset Save: GameInstance
+[2024.10.22-07.43.10:754][435]LogContentValidation: Display: Validating Blueprint /Game/Assignment/GameInstance.GameInstance
+[2024.10.22-07.43.22:115][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy.VH_Buggy
+[2024.10.22-07.43.29:291][222]LogSlate: Took 0.025978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.22-07.43.37:821][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-07.44.45:663][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-07.46.40:294][146]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.46.41:366][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.10.22-07.46.41:931][146]LogSlate: Took 0.017907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.10.22-07.47.36:523][ 86]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.47.36:952][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.10.22-07.47.42:907][613]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.47.43:038][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.10.22-07.49.08:037][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.10.22-07.49.11:285][395]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto1D5BDAA6D4B729DE210B38D8AA162BC7E.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto1.umap'
+[2024.10.22-07.49.11:348][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 3.343
+[2024.10.22-07.49.11:365][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.343
+[2024.10.22-07.49.11:383][395]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assignment/BP_PickableObject] ([2] browsable assets)...
+[2024.10.22-07.49.11:439][395]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject]
+[2024.10.22-07.49.11:439][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/BP_PickableObject]
+[2024.10.22-07.49.11:816][395]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject_Auto10726F0EC4D66C67C649A89BD82D7EC0F.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/BP_PickableObject_Auto1.uasset'
+[2024.10.22-07.49.11:817][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment/GameInstance] ([2] browsable assets)...
+[2024.10.22-07.49.11:817][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/GameInstance]
+[2024.10.22-07.49.11:819][395]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/GameInstance_Auto1F61170A04F757D3995640D8DF0D4D4F8.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/GameInstance_Auto1.uasset'
+[2024.10.22-07.49.11:820][395]LogFileHelpers: Auto-saving content packages took 0.438
+[2024.10.22-07.50.04:993][307]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.50.05:332][307]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a GameInstance_C, therefore ' Target ' must have a connection.
+[2024.10.22-07.50.05:345][307]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] Variable node  Get Points  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.22-07.50.05:375][307]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-07.50.05:571][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.10.22-07.54.24:168][264]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.54.24:182][264]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a GameInstance_C, therefore ' Target ' must have a connection.
+[2024.10.22-07.54.24:183][264]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] Variable node  Get Points  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.22-07.54.24:183][264]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-07.54.24:262][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.10.22-07.55.10:892][225]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.10.22-07.55.21:276][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.22-07.55.21:293][ 62]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.22-07.55.32:251][114]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-07.55.32:257][114]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-07.55.48:005][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-07.55.48:021][612]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject44A934B34A85F90E7277E09594DD8DCF.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-07.55.48:090][612]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-07.55.48:090][612]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-07.55.50:481][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/GameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/GameInstance.uasset" SILENT=true
+[2024.10.22-07.55.50:483][835]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/GameInstance43209653494D4D81D67F85B57F42BDF2.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/GameInstance.uasset'
+[2024.10.22-07.55.50:501][835]AssetCheck: New page: Asset Save: GameInstance
+[2024.10.22-07.55.50:501][835]LogContentValidation: Display: Validating Blueprint /Game/Assignment/GameInstance.GameInstance
+[2024.10.22-07.56.12:397][706]LogContentBrowser: Attempting asset rename: GameInstance -> MyGameInstance
+[2024.10.22-07.56.12:999][706]LogMetaData: Removing '/Game/Assignment/MyGameInstance.SKEL_MyGameInstance_C' ref from Metadata '/Game/Assignment/GameInstance.PackageMetaData'
+[2024.10.22-07.56.12:999][706]LogMetaData: Removing '/Game/Assignment/MyGameInstance.MyGameInstance_C' ref from Metadata '/Game/Assignment/GameInstance.PackageMetaData'
+[2024.10.22-07.56.13:220][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-07.56.13:221][706]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstance311D3B594D4AF35B0A419E95240B1FB2.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-07.56.13:545][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.10.22-07.56.13:787][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.10.22-07.56.13:821][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.22-07.56.13:844][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-07.56.13:857][706]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject56B702644D93BAE1F9AC2BBB466F3A94.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-07.56.15:024][706]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-07.56.15:025][706]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-07.56.15:025][706]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-07.56.19:021][ 63]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.10.22-07.56.23:560][438]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-07.56.23:567][438]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-07.56.26:398][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.10.22-07.56.26:471][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-07.56.26:616][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.10.22-07.56.28:388][700]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace2E355BE44ADE5BCD50A8A2AEFEC33C15.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-07.56.28:475][700]LogFileHelpers: Saving map 'DesertRallyRace' took 2.005
+[2024.10.22-07.56.28:517][700]AssetCheck: New page: Asset Save: DesertRallyRace
+[2024.10.22-07.56.28:518][700]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-07.58.18:728][666]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.58.18:834][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.10.22-07.58.50:109][948]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a MyGameInstance_C, therefore ' Target ' must have a connection.
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a MyGameInstance_C, therefore ' Target ' must have a connection.
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] Variable node  Get Points  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] Variable node  Set Points  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.22-07.58.50:114][948]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-07.58.50:193][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.10.22-08.00.25:759][111]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.00.25:762][111]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-08.00.25:762][111]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The property associated with  Points  could not be found in '/Game/Assignment/BP_PickableObject.BP_PickableObject_C'
+[2024.10.22-08.00.25:827][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.10.22-08.00.32:932][766]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-08.00.32:972][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2024.10.22-08.00.33:781][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-08.00.33:782][842]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstanceD1858289494678F6E61CF191114CD6B6.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-08.00.33:800][842]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-08.00.33:800][842]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-08.00.54:630][725]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.00.54:715][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2024.10.22-08.01.32:831][156]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.01.32:958][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.10.22-08.01.33:743][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.01.33:757][216]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject8F45DEBD4EB969974EB54EA8E87D314E.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.01.33:771][216]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.01.33:771][216]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.01.43:925][913]LogSlate: Window 'Delete Variable' being destroyed
+[2024.10.22-08.01.56:217][750]LogEditorTransaction: Undo Break Pin Links
+[2024.10.22-08.02.28:732][371]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_IntToString' [The specified module could not be found.]
+[2024.10.22-08.02.33:790][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_HUD" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset" SILENT=true
+[2024.10.22-08.02.33:954][748]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_HUDF4DAF2314AAA86D03B8EB29B8FF3D3CF.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset'
+[2024.10.22-08.02.33:976][748]AssetCheck: New page: Asset Save: VH_HUD
+[2024.10.22-08.02.33:976][748]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-08.02.34:301][768]BlueprintLog: New page: Compile VH_HUD
+[2024.10.22-08.02.34:479][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.10.22-08.02.35:239][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_HUD" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset" SILENT=true
+[2024.10.22-08.02.35:320][804]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_HUD205199334CAC2DBC54A915AAAC29FBBA.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset'
+[2024.10.22-08.02.35:336][804]AssetCheck: New page: Asset Save: VH_HUD
+[2024.10.22-08.02.35:336][804]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-08.02.45:477][316]LogSlate: Window 'Delete Variable' being destroyed
+[2024.10.22-08.02.57:369][874]LogSlate: Window 'Delete Variable' being destroyed
+[2024.10.22-08.03.09:099][839]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.03.09:399][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.10.22-08.03.09:879][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.03.09:890][870]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject175371724E1BBF63FA372DBBD032F77A.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.03.09:906][870]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.03.09:906][870]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.03.12:960][ 48]BlueprintLog: New page: Compile VH_Buggy
+[2024.10.22-08.03.13:032][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.10.22-08.03.13:508][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset" SILENT=true
+[2024.10.22-08.03.13:687][ 66]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_Buggy488B796C4883E0D52BBAF0997CAC2332.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset'
+[2024.10.22-08.03.13:743][ 66]AssetCheck: New page: Asset Save: VH_Buggy
+[2024.10.22-08.03.13:743][ 66]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy.VH_Buggy
+[2024.10.22-08.03.19:976][288]LogSlate: Window 'Delete Variable' being destroyed
+[2024.10.22-08.03.23:833][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset" SILENT=true
+[2024.10.22-08.03.23:888][510]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_Buggy15B357D84E3A60C815498EABFA5F601C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset'
+[2024.10.22-08.03.23:913][510]AssetCheck: New page: Asset Save: VH_Buggy
+[2024.10.22-08.03.23:913][510]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy.VH_Buggy
+[2024.10.22-08.03.24:552][553]BlueprintLog: New page: Compile VH_Buggy
+[2024.10.22-08.03.24:646][553]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2024.10.22-08.03.25:165][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset" SILENT=true
+[2024.10.22-08.03.25:200][581]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_Buggy7E62B86D448755974FC37090DD12743B.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_Buggy.uasset'
+[2024.10.22-08.03.25:216][581]AssetCheck: New page: Asset Save: VH_Buggy
+[2024.10.22-08.03.25:216][581]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_Buggy.VH_Buggy
+[2024.10.22-08.03.50:826][725]BlueprintLog: New page: Compile VH_HUD
+[2024.10.22-08.03.50:904][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.10.22-08.03.51:417][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_HUD" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset" SILENT=true
+[2024.10.22-08.03.51:513][752]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_HUDD060264949042DE1639E498389FE271A.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset'
+[2024.10.22-08.03.51:535][752]AssetCheck: New page: Asset Save: VH_HUD
+[2024.10.22-08.03.51:535][752]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-08.03.54:961][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.03.55:275][ 51]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.22-08.03.55:276][ 51]LogPlayLevel: [PlayLevel] Compiling DesertRallyRace before play...
+[2024.10.22-08.03.55:430][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2024.10.22-08.03.55:432][ 51]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2024.10.22-08.03.55:601][ 51]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:03:55 PM)
+[2024.10.22-08.03.55:974][ 51]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.10.22-08.03.56:142][ 51]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.22-08.03.56:225][ 51]LogLinker: Warning: Failed to load '/Game/Assignment/GameInstance': Can't find file.
+[2024.10.22-08.03.56:226][ 51]LogLinker: Warning: Failed to load '/Game/Assignment/GameInstance': Can't find file.
+[2024.10.22-08.03.56:227][ 51]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Assignment/GameInstance.GameInstance_C'
+[2024.10.22-08.03.56:264][ 51]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.03.57:557][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (1.293498s)
+[2024.10.22-08.03.57:769][ 51]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.03.57:908][ 51]LogPlayLevel: PIE: World Init took: (0.333789s)
+[2024.10.22-08.03.57:908][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (1.655949s)
+[2024.10.22-08.03.57:971][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.10.22-08.03.58:057][ 51]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.03.58:113][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.03.58:133][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.03.58:223][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.03.58:224][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.03.58:224][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.03.58:224][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.03.58:319][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.03.58:319][ 51]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.03.58:325][ 51]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.03.58:425][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.03.58:425][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.03.58:441][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.03.58:442][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.03.58:443][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.03.58:465][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.03.58:483][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.03.58:483][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.03.58:483][ 51]LogInit: FAudioDevice initialized.
+[2024.10.22-08.03.58:524][ 51]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.10.22-08.03.58:524][ 51]LogAudio: Display: Audio Device (ID: 2) registered with world 'DesertRallyRace'.
+[2024.10.22-08.03.59:075][ 51]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.04.00:239][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.04.00
+[2024.10.22-08.04.00:340][ 51]LogWorld: Bringing up level for play took: 0.291672
+[2024.10.22-08.04.00:609][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.10.22-08.04.01:083][ 51]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2024.10.22-08.04.01:900][ 51]PIE: Server logged in
+[2024.10.22-08.04.01:935][ 51]PIE: Play in editor total start time 6.841 seconds.
+[2024.10.22-08.04.04:182][ 52]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/CarDriveModel/Mono/EngineIgnite_Cue.EngineIgnite_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.10.22-08.04.04:965][ 76]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/CarPhysics/Mono/ImpactLand_Generic_Cue.ImpactLand_Generic_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.10.22-08.04.24:652][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.04.24:675][141]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.04.25:011][141]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.04.25:225][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.04.25:581][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.04.25:626][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.04.25:814][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-08.04.25:917][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.04.25:919][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.04.25:937][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.04.27:073][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2024.10.22-08.04.27:209][142]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.10.22-08.04.27:442][142]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2024.10.22-08.04.36:759][784]BlueprintLog: New page: Compile VH_HUD
+[2024.10.22-08.04.36:836][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.10.22-08.04.37:370][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_HUD" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset" SILENT=true
+[2024.10.22-08.04.37:473][807]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_HUDEBC41A8D4951755094FA1E9D267B4E04.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset'
+[2024.10.22-08.04.37:487][807]AssetCheck: New page: Asset Save: VH_HUD
+[2024.10.22-08.04.37:487][807]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-08.04.39:875][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.04.39:885][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.04.39:885][ 24]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:04:39 PM)
+[2024.10.22-08.04.39:886][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.04.40:252][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.365235s)
+[2024.10.22-08.04.40:315][ 24]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.04.40:316][ 24]LogPlayLevel: PIE: World Init took: (0.064536s)
+[2024.10.22-08.04.40:316][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.430022s)
+[2024.10.22-08.04.40:349][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.10.22-08.04.40:350][ 24]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.04.40:350][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.04.40:350][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.04.40:351][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.04.40:351][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.04.40:351][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.04.40:351][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.04.40:363][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.04.40:363][ 24]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.04.40:368][ 24]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.04.40:368][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.04.40:368][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.04.40:368][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.04.40:369][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.04.40:369][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.04.40:369][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.04.40:370][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.04.40:370][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.04.40:370][ 24]LogInit: FAudioDevice initialized.
+[2024.10.22-08.04.40:370][ 24]LogAudio: Display: Audio Device (ID: 3) registered with world 'DesertRallyRace'.
+[2024.10.22-08.04.40:376][ 24]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.04.40:528][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.04.40
+[2024.10.22-08.04.40:529][ 24]LogWorld: Bringing up level for play took: 0.036192
+[2024.10.22-08.04.40:547][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.10.22-08.04.40:551][ 24]PIE: Server logged in
+[2024.10.22-08.04.40:552][ 24]PIE: Play in editor total start time 0.672 seconds.
+[2024.10.22-08.04.51:167][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.04.51:167][203]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.04.51:172][203]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.04.51:187][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.04.51:201][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.04.51:207][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.04.51:246][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-08.04.51:247][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.04.51:248][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.04.51:250][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.04.51:291][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.10.22-08.04.51:319][204]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.10.22-08.04.51:353][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.10.22-08.05.27:041][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.05.27:068][153]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectA6FC6A71416AE2BD1C165A86685D797C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.05.27:085][153]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.05.27:085][153]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.05.29:292][346]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.05.29:400][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.10.22-08.05.29:912][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.05.29:925][379]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject55F0525B4FBF4DAB809BCDB788ADC688.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.05.29:945][379]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.05.29:945][379]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.05.33:417][714]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.05.33:424][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.05.33:424][714]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:05:33 PM)
+[2024.10.22-08.05.33:424][714]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.05.33:769][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.343629s)
+[2024.10.22-08.05.33:769][714]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.05.33:770][714]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2024.10.22-08.05.33:770][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.345092s)
+[2024.10.22-08.05.33:808][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2024.10.22-08.05.33:810][714]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.05.33:810][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.05.33:810][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.05.33:811][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.05.33:811][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.05.33:811][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.05.33:811][714]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.05.33:823][714]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.05.33:823][714]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.05.33:828][714]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.05.33:828][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.05.33:828][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.05.33:828][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.05.33:829][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.05.33:829][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.05.33:829][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.05.33:831][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.05.33:831][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.05.33:831][714]LogInit: FAudioDevice initialized.
+[2024.10.22-08.05.33:831][714]LogAudio: Display: Audio Device (ID: 4) registered with world 'DesertRallyRace'.
+[2024.10.22-08.05.33:852][714]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.05.33:990][714]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.05.33
+[2024.10.22-08.05.33:991][714]LogWorld: Bringing up level for play took: 0.038565
+[2024.10.22-08.05.33:991][714]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.10.22-08.05.33:997][714]PIE: Server logged in
+[2024.10.22-08.05.33:997][714]PIE: Play in editor total start time 0.577 seconds.
+[2024.10.22-08.05.53:075][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.05.53:075][852]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.05.53:078][852]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.05.53:085][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.05.53:093][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.05.53:101][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.05.53:143][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-08.05.53:143][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.05.53:144][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.05.53:146][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.05.53:178][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.10.22-08.05.53:210][853]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.22-08.05.53:248][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.10.22-08.06.09:922][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.06.09:936][171]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectB2064097428FBCEF6751CA9BD1334DFE.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.06.09:958][171]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.06.09:959][171]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.06.11:866][345]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.06.11:955][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.10.22-08.06.12:441][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.06.12:460][379]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectACF1629A4A55BA6EEEF4E3AFA0979F24.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.06.12:492][379]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.06.12:492][379]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.06.14:971][619]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.06.14:988][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.06.14:988][619]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:06:14 PM)
+[2024.10.22-08.06.14:989][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.06.15:306][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.317103s)
+[2024.10.22-08.06.15:306][619]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.06.15:307][619]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2024.10.22-08.06.15:307][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.318803s)
+[2024.10.22-08.06.15:347][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2024.10.22-08.06.15:348][619]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.06.15:348][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.06.15:348][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.06.15:348][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.06.15:348][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.06.15:348][619]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.06.15:361][619]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.06.15:361][619]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.06.15:366][619]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.06.15:366][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.06.15:366][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.06.15:366][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.06.15:367][619]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.06.15:367][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.06.15:367][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.06.15:368][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.06.15:368][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.06.15:368][619]LogInit: FAudioDevice initialized.
+[2024.10.22-08.06.15:368][619]LogAudio: Display: Audio Device (ID: 5) registered with world 'DesertRallyRace'.
+[2024.10.22-08.06.15:449][619]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.06.15:599][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.06.15
+[2024.10.22-08.06.15:600][619]LogWorld: Bringing up level for play took: 0.039575
+[2024.10.22-08.06.15:600][619]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.10.22-08.06.15:630][619]PIE: Server logged in
+[2024.10.22-08.06.15:631][619]PIE: Play in editor total start time 0.65 seconds.
+[2024.10.22-08.06.25:825][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.06.25:825][751]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.06.25:827][751]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.06.25:835][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.06.25:847][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.06.25:854][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.06.25:885][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.06.25:891][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.06.25:892][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.06.25:922][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2024.10.22-08.06.25:947][752]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.10.22-08.06.25:984][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.10.22-08.07.38:117][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.22-08.07.39:891][164]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto200267B924C8381F121D06B9176B5EF46.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto2.umap'
+[2024.10.22-08.07.40:028][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 1.949
+[2024.10.22-08.07.40:028][164]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.949
+[2024.10.22-08.11.51:689][396]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.11.51:787][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.10.22-08.11.52:245][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.11.52:258][429]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectF1D1FC774CE0FB0B1BB30CAAF7BBBB3C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.11.52:274][429]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.11.52:274][429]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.17.44:713][170]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.17.44:823][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.10.22-08.17.45:684][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.17.45:698][228]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject0BA0AA1141011A1DD7BC8BB2B8889F1D.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.17.45:719][228]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.17.45:719][228]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.17.50:642][698]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.10.22-08.18.24:202][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2024.10.22-08.18.26:410][253]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto3D1ECFE3148A4CB8E771B929AAAC149F3.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto3.umap'
+[2024.10.22-08.18.26:413][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 2.601
+[2024.10.22-08.18.26:413][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.601
+[2024.10.22-08.22.09:099][863]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.22.09:469][863]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To MyGameInstance  to imply a specific type.
+[2024.10.22-08.22.09:469][863]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.10.22-08.22.09:576][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.10.22-08.22.41:877][892]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.22.41:977][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.10.22-08.22.42:524][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.22.42:541][920]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject084839124658947B1136C89309181AD9.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.22.42:560][920]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.22.42:560][920]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.23.44:532][909]BlueprintLog: New page: Compile MyGameInstance
+[2024.10.22-08.23.44:605][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.10.22-08.23.45:104][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/MyGameInstance" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset" SILENT=true
+[2024.10.22-08.23.45:108][938]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/MyGameInstance81E3B0104911FD0A07BF1C8E8D1FA3CC.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/MyGameInstance.uasset'
+[2024.10.22-08.23.45:125][938]AssetCheck: New page: Asset Save: MyGameInstance
+[2024.10.22-08.23.45:125][938]LogContentValidation: Display: Validating Blueprint /Game/Assignment/MyGameInstance.MyGameInstance
+[2024.10.22-08.25.55:169][746]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-08.25.55:179][746]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.22-08.27.38:674][115]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.27.38:788][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.10.22-08.27.39:778][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.27.39:791][194]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject9F900E3F4DB8FBB4FA60989E4EC1D484.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.27.39:808][194]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.27.39:808][194]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.27.56:038][764]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.27.56:048][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.27.56:048][764]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:27:56 PM)
+[2024.10.22-08.27.56:049][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.27.56:383][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.333623s)
+[2024.10.22-08.27.56:384][764]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.27.56:385][764]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2024.10.22-08.27.56:385][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.335818s)
+[2024.10.22-08.27.56:421][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.10.22-08.27.56:424][764]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.27.56:424][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.27.56:424][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.27.56:425][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.27.56:425][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.27.56:425][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.27.56:425][764]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.27.56:440][764]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.27.56:440][764]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.27.56:445][764]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.27.56:445][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.27.56:445][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.27.56:445][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.27.56:446][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.27.56:446][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.27.56:446][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.27.56:447][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.27.56:447][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.27.56:447][764]LogInit: FAudioDevice initialized.
+[2024.10.22-08.27.56:447][764]LogAudio: Display: Audio Device (ID: 6) registered with world 'DesertRallyRace'.
+[2024.10.22-08.27.56:456][764]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.27.56:632][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.27.56
+[2024.10.22-08.27.56:633][764]LogWorld: Bringing up level for play took: 0.052261
+[2024.10.22-08.27.56:633][764]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.10.22-08.27.56:639][764]PIE: Server logged in
+[2024.10.22-08.27.56:640][764]PIE: Play in editor total start time 0.594 seconds.
+[2024.10.22-08.28.08:206][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.28.08:206][ 53]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.28.08:208][ 53]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.28.08:214][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.28.08:222][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.28.08:229][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.28.08:266][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-08.28.08:270][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.28.08:272][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.28.08:274][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.28.08:286][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.10.22-08.28.08:330][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.10.22-08.28.08:365][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.10.22-08.28.47:747][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/VH_Buggy/Blueprint/VH_HUD" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset" SILENT=true
+[2024.10.22-08.28.47:828][163]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/VH_HUD7109FE6142B31AF3BAC3A7A4489645FE.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Vehicles/VH_Buggy/Blueprint/VH_HUD.uasset'
+[2024.10.22-08.28.47:851][163]AssetCheck: New page: Asset Save: VH_HUD
+[2024.10.22-08.28.47:851][163]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/VH_Buggy/Blueprint/VH_HUD.VH_HUD
+[2024.10.22-08.28.48:440][202]BlueprintLog: New page: Compile VH_HUD
+[2024.10.22-08.28.48:548][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.10.22-08.28.51:491][427]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.28.51:586][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.10.22-08.28.52:105][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.28.52:117][459]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectD673472740E7F6FC8864D9B644DC37A0.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.28.52:132][459]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.28.52:132][459]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.31.59:161][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.10.22-08.32.01:358][438]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace_Auto4D30DDFB34476D0CA563CCCAA266B2FC7.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Maps/DesertRallyRace_Auto4.umap'
+[2024.10.22-08.32.01:442][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 2.332
+[2024.10.22-08.32.01:442][438]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.332
+[2024.10.22-08.32.01:443][438]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assignment/BP_PickableObject] ([2] browsable assets)...
+[2024.10.22-08.32.01:451][438]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject]
+[2024.10.22-08.32.01:451][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/BP_PickableObject]
+[2024.10.22-08.32.01:465][438]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject_Auto4750DE9B8419C427E1F5BA39E15008F48.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/BP_PickableObject_Auto4.uasset'
+[2024.10.22-08.32.01:466][438]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.10.22-08.33.04:422][982]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.33.04:518][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2024.10.22-08.35.40:483][817]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.35.40:487][817]LogBlueprint: Error: [AssetLog] G:\Assessment34BT\Assessment34BT\VehicleGame\Content\Assignment\BP_PickableObject.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.10.22-08.35.40:574][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.10.22-08.36.12:023][523]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.36.12:112][523]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2024.10.22-08.36.12:577][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.36.12:592][550]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject4DA3C8C5481344D0C79B678DBB633EC2.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.36.12:609][550]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.36.12:609][550]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.36.17:656][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.36.17:671][942]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectD84730E44E24948DC8F3FCBCC80BC329.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.36.17:690][942]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.36.17:690][942]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.36.20:959][257]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.36.20:966][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.36.20:966][257]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:36:20 PM)
+[2024.10.22-08.36.20:967][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.36.21:305][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.338087s)
+[2024.10.22-08.36.21:306][257]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.36.21:307][257]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2024.10.22-08.36.21:307][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.339994s)
+[2024.10.22-08.36.21:345][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.10.22-08.36.21:347][257]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.36.21:347][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.36.21:347][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.36.21:348][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.36.21:348][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.36.21:348][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.36.21:348][257]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.36.21:360][257]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.36.21:360][257]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.36.21:366][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.36.21:366][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.36.21:368][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.36.21:368][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.36.21:368][257]LogInit: FAudioDevice initialized.
+[2024.10.22-08.36.21:368][257]LogAudio: Display: Audio Device (ID: 7) registered with world 'DesertRallyRace'.
+[2024.10.22-08.36.21:379][257]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.36.21:536][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.36.21
+[2024.10.22-08.36.21:537][257]LogWorld: Bringing up level for play took: 0.044118
+[2024.10.22-08.36.21:537][257]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2024.10.22-08.36.21:543][257]PIE: Server logged in
+[2024.10.22-08.36.21:543][257]PIE: Play in editor total start time 0.58 seconds.
+[2024.10.22-08.36.35:947][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.36.35:947][849]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.36.35:947][849]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.36.35:954][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.36.35:963][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.36.35:974][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.36.36:008][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.36.36:017][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.36.36:019][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.36.36:039][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2024.10.22-08.36.36:076][850]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.10.22-08.36.36:113][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.10.22-08.37.02:663][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.37.02:678][ 87]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject85F1FF8447036D5A3754269F0436D864.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.37.02:698][ 87]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.37.02:698][ 87]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.37.09:682][635]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.37.09:787][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.10.22-08.37.10:317][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.37.10:333][667]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObject8B32682F41A405A163D1F1BA4870A794.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.37.10:350][667]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.37.10:350][667]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.37.12:568][860]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.37.12:575][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.37.12:575][860]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:37:12 PM)
+[2024.10.22-08.37.12:575][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.37.12:963][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.388300s)
+[2024.10.22-08.37.12:964][860]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.37.12:965][860]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2024.10.22-08.37.12:966][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.390711s)
+[2024.10.22-08.37.13:012][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.10.22-08.37.13:013][860]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.22-08.37.13:013][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.37.13:013][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.37.13:013][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.37.13:014][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.37.13:014][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.37.13:014][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.37.13:014][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.37.13:014][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.37.13:014][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.37.13:014][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.37.13:014][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.37.13:014][860]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.37.13:029][860]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.37.13:029][860]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.37.13:035][860]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.37.13:035][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.37.13:036][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.37.13:036][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.37.13:036][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.37.13:036][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.37.13:036][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.37.13:037][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.37.13:038][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.37.13:038][860]LogInit: FAudioDevice initialized.
+[2024.10.22-08.37.13:038][860]LogAudio: Display: Audio Device (ID: 8) registered with world 'DesertRallyRace'.
+[2024.10.22-08.37.13:051][860]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.37.13:212][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.37.13
+[2024.10.22-08.37.13:214][860]LogWorld: Bringing up level for play took: 0.042433
+[2024.10.22-08.37.13:214][860]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.10.22-08.37.13:222][860]PIE: Server logged in
+[2024.10.22-08.37.13:224][860]PIE: Play in editor total start time 0.651 seconds.
+[2024.10.22-08.37.27:096][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.37.27:096][418]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.37.27:098][418]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.37.27:104][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.37.27:115][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.37.27:124][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.37.27:162][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-08.37.27:166][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.37.27:167][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-08.37.27:169][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.37.27:182][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2024.10.22-08.37.27:212][419]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.10.22-08.37.27:249][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.10.22-08.39.47:557][893]BlueprintLog: New page: Compile BP_PickableObject
+[2024.10.22-08.39.47:650][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.10.22-08.39.48:235][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_PickableObject" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset" SILENT=true
+[2024.10.22-08.39.48:257][932]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_PickableObjectDEDC9A67477E2B2C2D237CAFE835E6C3.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_PickableObject.uasset'
+[2024.10.22-08.39.48:274][932]AssetCheck: New page: Asset Save: BP_PickableObject
+[2024.10.22-08.39.48:275][932]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_PickableObject.BP_PickableObject
+[2024.10.22-08.39.50:225][116]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-08.39.50:231][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-08.39.50:231][116]PIE: New page: PIE session: DesertRallyRace (Oct 22, 2024, 12:39:50 PM)
+[2024.10.22-08.39.50:232][116]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.39.50:571][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.339200s)
+[2024.10.22-08.39.50:572][116]LogAIModule: Creating AISystem for world DesertRallyRace
+[2024.10.22-08.39.50:572][116]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2024.10.22-08.39.50:572][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertRallyRace.DesertRallyRace to /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace (0.340838s)
+[2024.10.22-08.39.50:610][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.10.22-08.39.50:611][116]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-08.39.50:611][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-08.39.50:611][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-08.39.50:611][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-08.39.50:611][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-08.39.50:611][116]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-08.39.50:624][116]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-08.39.50:624][116]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Using Audio Device Casse ant (High Definition Audio Device)
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-08.39.50:630][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-08.39.50:630][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-08.39.50:631][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-08.39.50:631][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-08.39.50:631][116]LogInit: FAudioDevice initialized.
+[2024.10.22-08.39.50:631][116]LogAudio: Display: Audio Device (ID: 9) registered with world 'DesertRallyRace'.
+[2024.10.22-08.39.50:644][116]LogLoad: Game class is 'VH_Gamemode_C'
+[2024.10.22-08.39.50:796][116]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertRallyRace.DesertRallyRace up for play (max tick rate 0) at 2024.10.22-10.39.50
+[2024.10.22-08.39.50:797][116]LogWorld: Bringing up level for play took: 0.036829
+[2024.10.22-08.39.50:797][116]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2024.10.22-08.39.50:802][116]PIE: Server logged in
+[2024.10.22-08.39.50:803][116]PIE: Play in editor total start time 0.574 seconds.
+[2024.10.22-08.40.00:767][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-08.40.00:767][233]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertRallyRace
+[2024.10.22-08.40.00:768][233]LogWorld: UWorld::CleanupWorld for DesertRallyRace, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-08.40.00:775][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.40.00:794][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-08.40.00:801][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-08.40.00:993][233]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.10.22-08.40.23:828][233]LogStats: FPlatformStackWalk::StackWalkAndDump - 22.773 s
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: === Handled ensure: ===
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: 
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: Ensure condition failed: PSCMan [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Particles/ParticleComponents.cpp] [Line: 5000]
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: 
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: Stack: 
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff960744029 UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f85e229 UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f131f9d UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f1444a3 UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f02c960 UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f0c964c UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff95f83956b UE4Editor-Engine.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff9b108cbe8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff9b107778d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff9b0f3e5b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff9b0f3d57c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff9663ca58f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff965e622c0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff966762ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682cc87a0 UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682ce0fcc UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682ce10ba UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682ce40dd UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682cf5984 UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ff682cf853a UE4Editor.exe!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ffa132e7374 KERNEL32.DLL!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: [Callstack] 0x00007ffa151bcc91 ntdll.dll!UnknownFunction []
+[2024.10.22-08.40.23:850][233]LogOutputDevice: Error: 
+[2024.10.22-08.40.23:857][233]LogStats:                SubmitErrorReport -  0.000 s
