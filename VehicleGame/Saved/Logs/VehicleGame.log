@@ -6510,3 +6510,27 @@ Script Stack (0 frames):
 [2024.10.22-14.26.39:521][778]LogFileHelpers: Saving map 'DesertRallyRace' took 2.195
 [2024.10.22-14.26.39:568][778]AssetCheck: New page: Asset Save: DesertRallyRace
 [2024.10.22-14.26.39:568][778]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
+[2024.10.22-14.38.41:206][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.22-14.38.41:214][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DesertRallyRace' took 0.062
+[2024.10.22-14.38.41:214][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assignment/BP_TurboBoost] ([2] browsable assets)...
+[2024.10.22-14.38.41:232][824]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost]
+[2024.10.22-14.38.41:232][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment/BP_TurboBoost]
+[2024.10.22-14.38.41:248][824]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost_Auto8AE896DB34BA8FA2545919F87C4195995.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/Autosaves/Game/Assignment/BP_TurboBoost_Auto8.uasset'
+[2024.10.22-14.38.41:248][824]LogFileHelpers: Auto-saving content packages took 0.036
+[2024.10.22-14.46.35:385][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-14.46.35:398][258]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost506828CC4E68782B96AF9B9ACC5F002C.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-14.46.35:429][258]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-14.46.35:429][258]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-14.46.39:280][520]BlueprintLog: New page: Compile BP_TurboBoost
+[2024.10.22-14.46.39:363][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.10.22-14.46.39:845][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_TurboBoost" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset" SILENT=true
+[2024.10.22-14.46.39:863][543]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/BP_TurboBoost142DC9E14A3F92162D6A11AFB6A13538.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Assignment/BP_TurboBoost.uasset'
+[2024.10.22-14.46.39:889][543]AssetCheck: New page: Asset Save: BP_TurboBoost
+[2024.10.22-14.46.39:889][543]LogContentValidation: Display: Validating Blueprint /Game/Assignment/BP_TurboBoost.BP_TurboBoost
+[2024.10.22-14.46.43:245][811]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2024.10.22-14.46.43:289][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertRallyRace" FILE="../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.22-14.46.43:334][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.22-14.46.45:210][811]LogSavePackage: Moving '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Saved/DesertRallyRace70A40F0940EFA310BFAA87AEAB9F08E1.tmp' to '../../../../../Assessment34BT/Assessment34BT/VehicleGame/Content/Maps/DesertRallyRace.umap'
+[2024.10.22-14.46.45:230][811]LogFileHelpers: Saving map 'DesertRallyRace' took 1.943
+[2024.10.22-14.46.45:265][811]AssetCheck: New page: Asset Save: DesertRallyRace
+[2024.10.22-14.46.45:265][811]LogContentValidation: Display: Validating World /Game/Maps/DesertRallyRace.DesertRallyRace
